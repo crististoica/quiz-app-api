@@ -1,0 +1,1391 @@
+{
+  "BD": [{
+    "question": "SGBD - urile relaţionale sunt denumite SGBD - uri din:",
+    "options": ["I-a generaţie", "a II-a generaţie", "a III-a generaţie", "a IV-a generaţie"],
+    "correctAnswer": 1,
+    "questionNumber": 1,
+    "index": 0
+  }, {
+    "question": "Referitor la o bază de date relaţională, putem afirma că va conţine:",
+    "options": ["colecţii organizate de date între care pot exista diferite legături", "colecţii organizate de date între care pot exista legături, iar dacă există, ele sunt legături logice", "colecţii organizate de date fără legături logice", "colecţii organizate de date între care există legături logic"],
+    "correctAnswer": 1,
+    "questionNumber": 2,
+    "index": 1
+  }, {
+    "question": "Componenta software specifică arhitecturii pe componente a unui sistem de baze de date poate conţine:",
+    "options": ["dicţionarul de date", "sistemul de gestiune al bazei de date", "datele", "fişierele anexă"],
+    "correctAnswer": 1,
+    "questionNumber": 3,
+    "index": 2
+  }, {
+    "question": "Elementele auxiliare specifice arhitecturii pe componente se referă la:",
+    "options": ["realizarea şi funcţionarea întregului sistem de baze de date", "programe de aplicaţii dezvoltate într-un sistem de gestiune a bazelor de date", "realizarea şi exploatarea bazei de date", "structura datelor, restricţiile de integritate şi vederile unei baze de date"],
+    "correctAnswer": 0,
+    "questionNumber": 4,
+    "index": 3
+  }, {
+    "question": "Nivelul conceptual specific arhitecturii pe niveluri se referă la:",
+    "options": ["viziunea administratorului bazei de date asupra datelor", "viziunea programatorului asupra datelor", "viziunea utilizatorului asupra modului de proiectare a bazei de date", "viziunea administratorului, al programatorului şi al utilizatorului asupra modului de proiectarea bazei de date"],
+    "correctAnswer": 0,
+    "questionNumber": 5,
+    "index": 4
+  }, {
+    "question": "Nivelul fizic aferent arhitecturii pe niveluri se referă la:",
+    "options": ["viziunea analistului de sistem asupra datelor şi descrie modul în care ele sunt stocate în baza de date, viziunea inginerului de sistem asupra datelor şi descrie modul în care sunt stocate datele în baza de date", "viziunea inginerului de sistem asupra datelor, dar nu descrie modul în care sunt stocate datele în baza de date", "viziunea inginerului de sistem asupra datelor şi descrie modul în care sunt stocate datele pe disc", "viziunea administratorului bazei de date asupra datelor"],
+    "correctAnswer": 0,
+    "questionNumber": 6,
+    "index": 5
+  }, {
+    "question": "Independenţa logică este specifică:",
+    "options": ["nivelului logic", "nivelului conceptual", "nivelului fizic", "nivelului conceptual sau nivelului logic, în funcţie de modul de proiectare al bazei de date"],
+    "correctAnswer": 3,
+    "questionNumber": 7,
+    "index": 6
+  }, {
+    "question": "Normalizarea nu rezolvă:",
+    "options": ["anomalia de ștergere", "anomalia de actualizare", "anomalia de inserare", "anomalia de creare"],
+    "correctAnswer": 3,
+    "questionNumber": 8,
+    "index": 7
+  }, {
+    "question": "Proiectarea bazei de date se referă şi la:",
+    "options": ["alegerea SGBD-ului", "prototipizare", "testare", "întreţinere operaţională"],
+    "correctAnswer": 0,
+    "questionNumber": 9,
+    "index": 8
+  }, {
+    "question": "Întreţinerea operaţională se referă la:",
+    "options": ["monitorizarea şi testarea continua a aplicaţiei", "monitorizarea continuă a aplicaţiei şi încorporarea unor noi cerinţe, atunci când este cazul", "monitorizarea continuă a aplicaţiei şi încorporarea permanent a unor noi cerinţe", "monitorizarea continuă a aplicaţiei, fără însă a se mai putea adăuga funcţionalităţi suplimentare aferente noilor cerinţe"],
+    "correctAnswer": 1,
+    "questionNumber": 10,
+    "index": 9
+  }, {
+    "question": "Proiectarea bazei de date se referă şi la:",
+    "options": ["oferirea unui model de date care să permită realizarea tranzacţiilor", "oferirea unui model de date care să permită realizarea tuturor tranziţiilor necesare", "oferirea unui model de date care să permită realizarea tranzacţiilor şi a tranziţiilor asupra datelor", "proiectarea bazei de date nu se referă la oferirea unui model de date"],
+    "correctAnswer": 0,
+    "questionNumber": 11,
+    "index": 10
+  }, {
+    "question": "Proiectarea conceptuală se referă la:",
+    "options": ["construirea unui model informaţional dependent de fiecare considerent privitor la aspectul fizic al datelor", "construirea unui model informaţional independent de fiecare considerent privitor la aspectul fizic al datelor", "construirea unui model informaţional independent bazat pe unul din modelele tradiţionale", "implementarea efectivă a bazei de date"],
+    "correctAnswer": 3,
+    "questionNumber": 12,
+    "index": 11
+  }, {
+    "question": "Realizarea unui model de date logic este specific:",
+    "options": ["proiectării conceptuale", "proiectării fizice", "proiectării logice", "proiectării tranzacţiilor"],
+    "correctAnswer": 2,
+    "questionNumber": 13,
+    "index": 12
+  }, {
+    "question": "Tranzacţia se referă la:",
+    "options": ["acţiuni care numai accesează baza de date", "acţiuni care numai actualizează baza de date", "acţiuni care nu accesează sau nu actualizează baza de date", "trecerea de la o realizare la alta a bazei de date, acţiuni care accesează sau actualizează baza de date"],
+    "correctAnswer": 3,
+    "questionNumber": 14,
+    "index": 13
+  }, {
+    "question": "Câte chei poate avea o relaţie?",
+    "options": ["una primară, una străină și una alternantă", "mai multe candidat, una primară şi cel puţin una străină", "una sau mai multe candidat, una primară şi nici una, una, sau mai multe alternante", "una sau mai multe candidat, una primară, nici una, una, sau mai multe alternante şi cel puţin una străină"],
+    "correctAnswer": 3,
+    "questionNumber": 15,
+    "index": 14
+  }, {
+    "question": "O bază de date relaţională se referă la:",
+    "options": ["colecţii organizate de date", "colecţii corelate din punct de vedere logic", "colecţii organizate şi corelate din punct de vedere logic", "colecţii organizate şi corelate fizic pe suportul de stocare"],
+    "correctAnswer": 2,
+    "questionNumber": 16,
+    "index": 15
+  }, {
+    "question": "Cheia candidat reprezintă:",
+    "options": ["un singur atribut care poate fi cheie primară sau cheie alternantă", "un atribut (grup de atribute) care poate deveni fie cheie primară, fie cheie alternantă", "un atribut (grup de atribute) care poate deveni fie cheie primară, fie cheie străină", "un atribut (grup de atribute) care poate deveni fie cheie alternantă, fie cheie străină"],
+    "correctAnswer": 1,
+    "questionNumber": 17,
+    "index": 16
+  }, {
+    "question": "Cheia primară reprezintă un atribut sau un grup de atribute care:",
+    "options": ["identifică unic fiecare tuplu al unei relaţii", "identifică unic fiecare tuplu, în funcţie de relaţia în care migrează", "identifică în mod unic toate celelalte atribute ale relaţiei din care face parte", "nu poate migra niciodată din relaţia din care face parte"],
+    "correctAnswer": 0,
+    "questionNumber": 18,
+    "index": 17
+  }, {
+    "question": "Un tuplu se obţine prin atribuirea de valori:",
+    "options": ["atributelor cheie", "atributelor unei relaţii", "cheii străine", "pentru acele atributute care au valoarea – NULL"],
+    "correctAnswer": 1,
+    "questionNumber": 19,
+    "index": 18
+  }, {
+    "question": "O relaţie este părinte dacă:",
+    "options": ["unui tuplu din acea relaţie nu-i corespunde nici un tuplu în relaţia cu care s-a asociat", "unui tuplu din relaţia respectivă îi corespunde un singur tuplu în relaţia cu care s-a asociat", "unui tuplu din relaţia respectivă îi corespund mai multe tupluri în relaţia cu care s-a asociat", "se asociază cu încă două relaţii"],
+    "correctAnswer": 2,
+    "questionNumber": 20,
+    "index": 19
+  }, {
+    "question": "Fiecare relaţie:",
+    "options": ["are o singură cheie primară", "are mai multe chei primare", "are o singură cheie primară, însă atunci când este nevoie, se poate identifica cel mult încă una", "nu contează câte chei primare are o relaţie"],
+    "correctAnswer": 0,
+    "questionNumber": 21,
+    "index": 20
+  }, {
+    "question": "Legătura de tipul unu-la-mai-mulţi se realizează atunci când:",
+    "options": ["unui tuplu din fiecare relaţie îi corespunde cel mult un tuplu din cealaltă relaţie", "unui tuplu din prima relaţie îi corespund mai multe tupluri în cea de-a doua relaţie, în timp ce unui tuplu din a doua relaţie îi corespunde un singur tuplu din prima", "unui tuplu din fiecare relaţie îi corespund mai multe tupluri din cealaltă relaţie", "se asociază cel puţin trei relaţii"],
+    "correctAnswer": 1,
+    "questionNumber": 22,
+    "index": 21
+  }, {
+    "question": "SGBD-ul reprezintă o interfaţă între:",
+    "options": ["sistemul de operare şi alt SGBD-uri", "două sau mai multe SGBD-uri, dacă ele se găsesc pe platforme diferite", "utilizatori şi sistemul de operare", "două sisteme de operare care rulează pe platforme diferite"],
+    "correctAnswer": 2,
+    "questionNumber": 23,
+    "index": 22
+  }, {
+    "question": "Un SGBD permite",
+    "options": ["doar actualizarea datelor din baza de date", "doar extragerea datelor prin intermediul limbajului de descriere a datelor", "doar extragerea datelor prin intermediul limbajului de manipulare a datelor", "actualizarea datelor şi extragerea lor prin intermediul limbajului de manipulare a datelor"],
+    "correctAnswer": 3,
+    "questionNumber": 24,
+    "index": 23
+  }, {
+    "question": "Principala deosebire între limbajele procedurale şi cele neprocedurale constă în faptul că:",
+    "options": ["limbajele procedurale tratează datele unei baze de date înregistrare cu înregistrare, în timp ce cele neprocedurale lucrează cu seturi de înregistrări", "limbajele neprocedurale tratează datele unei baze de date înregistrare cu înregistrare, în timp ce cele procedurale lucrează cu seturi de înregistrări", "limbajele neprocedurale se bazează pe limbajele de descriere a datelor, în timp ce cele procedural lucrează cu limbajele de manipulare a datelor", "limbajele procedurale se bazează pe limbajele de descriere a datelor, în timp ce cele neprocedurale lucrează cu limbajele de manipulare a datelor"],
+    "correctAnswer": 0,
+    "questionNumber": 25,
+    "index": 24
+  }, {
+    "question": "Subsistemul instrumentelor de proiectare nu poate include:",
+    "options": ["limbaje de descriere a datelor", "limbaje de manevrare a datelor", "limbaje de programare", "limbaje de interogare a datelor"],
+    "correctAnswer": 2,
+    "questionNumber": 26,
+    "index": 25
+  }, {
+    "question": "Subsistemul instrumentelor de proiectare nu permite definirea:",
+    "options": ["structurii tabelelor din baza de date", "machetelor de interfaţă cu utilizatorul", "accesului fizic la datele bazei de date", "formatului rapoartelor şi cererilor de interogare a bazei de date"],
+    "correctAnswer": 0,
+    "questionNumber": 27,
+    "index": 26
+  }, {
+    "question": "În etapa de exploatare a bazei de date administratorul",
+    "options": ["poate autoriza accesul la datele bazei de date", "poate permite modificarea structurii logice a bazei de date", "poate crea conturi de acces la baza de date", "nu poate reface baza de date în cazul unor incidente"],
+    "correctAnswer": 1,
+    "questionNumber": 28,
+    "index": 27
+  }, {
+    "question": "Subsistemul de execuţie al SGBD-ului este componenta care:",
+    "options": ["permite proiectarea şi generarea bazei de date şi a aplicaţiilor care descriu modul de utilizare a bazei dedate", "are rolul de a asigura accesul fizic la datele bazei de date", "permite execuţia aplicaţiilor sau cererilor de consultare a bazei de date", "permite definirea structurii tabelelor din baza de date"],
+    "correctAnswer": 2,
+    "questionNumber": 29,
+    "index": 28
+  }, {
+    "question": "Se dau tabelele: STUDENTI(CodStud, NumeStud, Facultate, LoculNasterii) PROFESORI(CodProf, NumeProf, Departament, GradDidactic, LoculNasterii) Care dintre urmatoarele variante va returna studenții și profesorii din provincie?",
+    "options": ["SELECT CodStud, NumeStud, LoculNasterii, CodProf, NumeProf, LoculNasterii FROM STUDENTI, PROFESORI WHERE LoculNasterii<>”Bucuresti”", "SELECT CodStud, NumeStud, LoculNasterii, CodProf, NumeProf, LoculNasterii FROM STUDENTI, PROFESORI WHERE LoculNasterii = „Provincie”", "SELECT CodStud, NumeStud, LoculNasterii FROM STUDENTI WHERE LoculNasterii = „Provincie” UNION SELECT CodProf, NumeStud, LoculNasterii FROM PROFESORI WHERE LoculNasterii = „Provincie”", "SELECT CodStud, NumeStud, LoculNasterii FROM STUDENTI WHERE LoculNasterii <>”Bucuresti” UNION SELECT CodProf, NumeStud, LoculNasterii FROM PROFESORI WHERE LoculNasterii <>”Bucuresti”"],
+    "correctAnswer": 3,
+    "questionNumber": 30,
+    "index": 29
+  }, {
+    "question": "Se dă tabelul: CHITANTE (NrChitanta, Suma, Data, NrGhiseu) Care dintre următoarele interogări SQL are ca efect afișarea zilelor în care s-au emis mai mult de 2 chitanțe?",
+    "options": ["SELECT Nrchitanta, Suma, Data FROM CHITANTE WHERE COUNT (NrChitanta)>2", "SELECT Nrchitanta, Suma, Data FROM CHITANTE HAVING COUNT (NrChitanta)>2", "SELECT CHITANTE.Data FROM CHITANTE GROUP BY Data HAVING COUNT (NrChitanta)>2", "SELECT COUNT (Data), COUNT(NrChitanta) FROM CHITANTE WHERE Data IS Unique"],
+    "correctAnswer": 2,
+    "questionNumber": 31,
+    "index": 30
+  }, {
+    "question": "Se dă tabelul: ANGAJATI (CodAngaj, Nume, DataAngajare, Compartiment, Profesia, Salariu) Care dintre următoarele instrucțiuni SQL permite afișarea numărului de salariați pe fiecare compartiment care începe cu litera „A”",
+    "options": ["SELECT CodAngajat, Nume, Compartiment FROM ANGAJATI WHERE Nume like A*", "SELECT COUNT(CodAngajat) AS Numar, Nume, Compartiment FROM ANGAJATI WHERE Nume like „A*” GROUP BY Compartiment.", "SELECT CodAngajat, Nume, Compartiment FROM ANGAJATI WHERE Compartiment like A*", "SELECT COUNT(CodAngajat) AS Numar, Compartiment FROM ANGAJATI WHERE Compartiment like „A*” GROUP BY Compartiment"],
+    "correctAnswer": 3,
+    "questionNumber": 34,
+    "index": 31
+  }, {
+    "question": "Se dau tabelele: CLIENTI (CodCL, Nume, Oras, Adresa, Telefon, ContBancar) FACTURI (NrFactura, DataFact, Valoare, CodCL) Care dintre următoarele interogări SQL permite afișarea numelor clienților pentru care nu au fost emise facturi în data de 4 august 2018.",
+    "options": ["SELECT DataFact, Nume FROM Facturi LEFT JOIN Clienti ON Facturi.CodCL=Clienti.CodCL WHERE DataFact = ‘04/08/2018’ GROUP BY DataFact HAVING COUNT(Nume)=0", "SELECT DataFact, Nume FROM Clienti LEFT JOIN Facturi ON Clienti.CodCL=Facturi.CodCL WHERE Date(DataFact) = ‘04/08/2018’ GROUP BY DataFact HAVING COUNT(NrFactura) =0", "SELECT Clienti.CodCL, Nume FROM Clienti INNER JOIN Facturi ON Facturi.CodCL=Clienti.CodCL WHERE DataFact NOT IN(‘04/08/2018’) AND NrFactura IS NULL", "SELECT Nume FROM Clienti WHERE Clienti.CodCL NOT IN (SELECT CodCL FROM Facturi WHERE DataFact =‘04/08/2018’)"],
+    "correctAnswer": 3,
+    "questionNumber": 36,
+    "index": 32
+  }, {
+    "question": "Într-un model conceptual al prelucrărilor, o sincronizare este întotdeauna precedată de:",
+    "options": ["unul sau mai multe evenimente finale ale procesului", "un tip de operație", "unul sau mai multe evenimente declanșatoare", "altă sincronizare"],
+    "correctAnswer": 2,
+    "questionNumber": 37,
+    "index": 33
+  }, {
+    "question": "Se dă tabelul: ANGAJATI (CodAngaj, Nume, DataAngajare, profesia). Care dintre următoarele instrucțiuni SQL permit ștergerea salariaților angajați înainte de începutul anului 2018 cu profesia “economist”",
+    "options": ["UPDATE Angajati SET CodAngaj = Null WHERE DataAngajare < ‘1/1/2018’ AND profesia = “economist”", "DELETE FROM Angajati WHERE DataAngajare < ‘1/1/2018’ AND profesia = “economist”", "DELETE Angajati WHERE DataAngajare < ‘1/1/2018’ AND profesia LIKE “*economist*”", "DELETE * FROM Angajati WHERE profesia LIKE “*economist*” HAVING YEAR(DataAngajare) <2018"],
+    "correctAnswer": 1,
+    "questionNumber": 38,
+    "index": 34
+  }, {
+    "question": "Se dau tabelele: CLIENTI (CodCL, Nume, Oras, Adresa, Telefon, ContBancar) FACTURI (NrFactura, DataFact, Valoare, CodCL) Care dintre următoarele interogări SQL permite calculul sumei totale facturate pe fiecare oraș în luna iulie 2018?",
+    "options": ["SELECT Clienti.CodCL, Oras, SUM(Valoare) AS [Total facturat pe localitati] FROM Facturi INNER JOIN Clienti ON Facturi.CodCL=Clienti.CodCL WHERE MONTH(DataFact)=7 AND YEAR(DataFact)=2018 GROUP BY SUM(Valoare)", "SELECT Clienti.CodCL, Oras, SUM(Valoare) AS [Total facturat pe localitati] FROM Facturi INNER JOIN Clienti ON Facturi.CodCL=Clienti.CodCL WHERE MONTH(DataFact)=7 AND YEAR(DataFact)=2018 GROUP BY Clienti.CodCL, Oras", "SELECT DataFact, Oras, SUM(Valoare) AS [Total facturat pe localitati] FROM Facturi INNER JOIN Clienti ON Facturi.CodCL=Clienti.CodCL WHERE DataFact IN (‘01/07/2018’; ‘31/07/2018’) GROUP BY DataFact, Oras", "SELECT Oras, SUM(Valoare) AS [Total facturat pe localitati] FROM Facturi INNER JOIN Clienti ON Facturi.CodCL=Clienti.CodCL WHERE DataFact BETWEEN ‘01/07/2018’ AND ‘31/07/2018’ GROUP BY Oras"],
+    "correctAnswer": 3,
+    "questionNumber": 39,
+    "index": 35
+  }, {
+    "question": "Se dau tabelele: CLIENTI (CodCL, Nume, Oras, Adresa, Telefon, ContBancar) FACTURI (NrFactura, DataFact, Valoare, CodCL) Care dintre următoarele interogări SQL permite ștergerea numărului de telefon pentru clienții din provincie?",
+    "options": ["DELETE CLIENTI.Telefon FROM CLIENTI WHERE Localitate=”Provincia”", "UPDATE CLIENTI SET Telefon=NULL WHERE Oras<>”Bucuresti”", "UPDATE CLIENTI.Telefon SET Telefon=NULL WHERE Oras=”Provincie”", "UPDATE CLIENTI SET Telefon=NULL HAVING Oras<>”Bucuresti”"],
+    "correctAnswer": 1,
+    "questionNumber": 40,
+    "index": 36
+  }, {
+    "question": "Se dă tabelul: CHITANTE (NrChitanta, Suma, DataChitanta, NrGhiseu ) Care dintre următoarele interogări SQL are ca efect micșorarea cu 10% a sumelor de pe chitantele eliberate la ghișeul numărul 3 în anul 2018",
+    "options": ["SELECT Suma*90%, DataChitanta, NrGhiseu FROM Chitante WHERE NrGhiseu = 3 AND DataChitanta = Year(Today())", "SELECT DataChitanta, NrGhiseu SET Suma = Suma-Suma/10, FROM Chitante WHERE NrGhiseu = 3 AND Date (DataChitanta. = Year(Today())", "UPDATE Chitante SET Suma=Suma*0.9 WHERE NrGhiseu = 3 AND YEAR (DataChitanta) = 2018", "UPDATE FROM TABLE Chitante SET Suma=Suma – Suma/10 WHERE NrGhiseu LIKE “3*” OR DataChitanta LIKE “2018*”"],
+    "correctAnswer": 2,
+    "questionNumber": 41,
+    "index": 37
+  }, {
+    "question": "Se dă tabelul: ANGAJATI (CodAngaj, Nume, DataAngajare, profesia, Salariu) Care dintre următoarele instrucțiuni SQL permite majorarea salariului cu 1% pentru salariații angajați în anul 2018",
+    "options": ["UPDATE Angajati SET Salariu = Salariu + 1% WHERE DataAngajare IN 2018", "SELECT Salariu + 1%* Salariu FROM Angajati WHERE DataAngajare IN (‘1/1/2018’, ‘31/12/2018’)", "UPDATE Angajati SET Salariu = Salariu*1.01 WHERE YEAR(DataAngajare) = 2018", "UPDATE Salariu FROM Angajati SET Salariu = Salariu * 101% WHERE DataAngajare BETWEEN ‘1/1/2018’ AND ‘31/12/2018’"],
+    "correctAnswer": 2,
+    "questionNumber": 42,
+    "index": 38
+  }, {
+    "question": "Se dă tabelul: CHITANTE (NrChitanta, Suma, DataChitanta, NrGhiseu) Care dintre următoarele interogări SQL are ca efect afișarea valorii totale din fiecare lună a anului curent?",
+    "options": ["SELECT SUM(Suma. AS Total, DataChitanta FROM CHITANTE WHERE Anul= year(Today())", "SELECT SUM(Suma. AS Total, Month(DataChitanta. AS Luna FROM CHITANTE WHERE Anul=2019", "SELECT SUM(Suma. AS TotalValoare, Month(DataChitanta. AS Luna FROM CHITANTE WHERE year(DataChitanta.=2019 GROUP By DataChitanta", "SELECT SUM(Suma) AS TotalValoare, Month(DataChitanta) AS Luna FROM CHITANTE WHERE year(DataChitanta)=year(Now()) GROUP BY Month(DataChitanta)"],
+    "correctAnswer": 3,
+    "questionNumber": 43,
+    "index": 39
+  }, {
+    "question": "Modelul relațional a fost dezvoltat de:",
+    "options": ["Fibonacci", "Bill Gates", "Codd", "Ajax"],
+    "correctAnswer": 2,
+    "questionNumber": 44,
+    "index": 40
+  }, {
+    "question": "Care din elemente pot fi componente ale bazelor de date relaționale:",
+    "options": ["Uniuni", "Reguli", "Restricții NOT NULL", "Interogări"],
+    "correctAnswer": 2,
+    "questionNumber": 45,
+    "index": 41
+  }, {
+    "question": "Folosind Baza de date COMENZI care conține tabelele: PERSOANE (IdPersoana - pk, Nume, Prenume, Oras) și COMENZI (IdComanda - pk, Valoare, IdPersoana - fk) precizați codul SQL pentru o interogare care afișează Numele, Prenumele, IdComanda și Valoarea comenzii pentru acele comenzi care nu fac parte din intervalul 1500-2000 lei:",
+    "options": ["SELECT Persoane.Nume, Persoane.Prenume, Comenzi.IdComanda, Comenzi.Valoare FROM Persoane INNER JOIN Comenzi ON Persoane.IdPersoana = Comenzi.IdPersoana WHERE Comenzi.Valoare NOT BETWEEN 1500 AND 2000;", "SELECT Persoane.Nume, Persoane.Prenume, Comenzi.IdComanda, Comenzi.Valoare FROM Persoane INNER JOIN Comenzi WHERE Comenzi.Valoare NOT BETWEEN 1500 AND 2000;", "SELECT Persoane.Nume, Persoane.Prenume, Comenzi.IdComanda, Comenzi.Valoare FROM Persoane INNER JOIN Comenzi ON Persoane.IdPersoana = Comenzi.IdPersoana WHERE Comenzi.Valoare BETWEEN 1500 AND 2000;", "SELECT Persoane.Nume, Persoane.Prenume, Comenzi.IdComanda, Comenzi.Valoare FROM Persoane FULL JOIN Comenzi ON Persoane.IdPersoana = Comenzi.IdPersoana WHERE Comenzi.Valoare BETWEEN 1500 AND 2000;"],
+    "correctAnswer": 0,
+    "questionNumber": 46,
+    "index": 42
+  }, {
+    "question": "Folosind Baza de date COMENZI care conține tabelele: PERSOANE (IdPersoana - pk, Nume, Prenume, Oras) și COMENZI (IdComanda - pk, Valoare, IdPersoana - fk) precizați codul SQL care generează o interogare ce afișează Id Persoana și Valoarea totală a comenzilor efectuate de fiecare persoană:",
+    "options": ["SELECT Comenzi.IdPersoana, AVG(Comenzi.Valoare) FROM Comenzi GROUP BY Comenzi.IdPersoana;", "SELECT Comenzi.IdPersoana, AVG(Comenzi.Valoare) FROM Comenzi ORDER BY Comenzi.IdPersoana;", "SELECT Comenzi.IdPersoana, SUM(Comenzi.Valoare) FROM Comenzi ORDER BY Comenzi.IdPersoana;", "SELECT Comenzi.IdPersoana, SUM(Comenzi.Valoare) FROM Comenzi GROUP BY Comenzi.IdPersoana;"],
+    "correctAnswer": 3,
+    "questionNumber": 47,
+    "index": 43
+  }, {
+    "question": "Folosind Baza de date COMENZI care conține tabelele: PERSOANE (IdPersoana - pk, Nume, Prenume, Oras) și COMENZI (IdComanda - pk, Valoare, IdPersoana - fk) precizați codul SQL pentru o interogare care să afișeze Numele, Prenumele, Id Comanda și Valoarea comenzii iar înregistrările să fie ordonate după Oras:",
+    "options": ["SELECT a.IdPersoana, a.Nume, a.Prenume, a.Oras, b.IdComanda, b.Valoare FROM Persoane a LEFT JOIN Comenzi b ON a.IdPersoana = b.IdPersoana ORDER BY a.Nume DESC;", "SELECT Persoane.Nume, Persoane.Prenume, Comenzi.IdComanda, Comenzi.Valoare FROM Persoane INNER JOIN Comenzi ON Persoane.IdPersoana = Comenzi.IdPersoana ORDER BY Persoane.Oras;", "SELECT a.IdPersoana, a.Nume, a.Prenume, a.Oras, b.IdComanda, b.Valoare FROM Persoane a LEFT JOIN Comenzi b ON a.IdPersoana = b.IdPersoana GROUP BY a.Nume;", "SELECT a.IdPersoana, a.Nume, a.Prenume, a.Oras, b.IdComanda, b.Valoare FROM Persoane a RIGHT JOIN Comenzi b ON a.IdPersoana = b.IdPersoana ORDER BY a.Nume DESC;"],
+    "correctAnswer": 1,
+    "questionNumber": 48,
+    "index": 44
+  }, {
+    "question": "Instructiunile SQL nu fac parte din categoria:",
+    "options": ["Limbajul de interogare a datelor (DQL)", "Limbajul de definire a datelor (DDL - Data Definition Language)", "Limbajul de selectare a datelor (DSL - Data Selection Language)", "Limbajul de manipulare a datelor (DML - Data Manipulation Language)"],
+    "correctAnswer": 0,
+    "questionNumber": 51,
+    "index": 45
+  }, {
+    "question": "Limbajul de definire a datelor (DDL - Data Definition Language) nu include urmatoarea instructiune:",
+    "options": ["INSERT", "UPDATE", "DELETE", "ALTER"],
+    "correctAnswer": 3,
+    "questionNumber": 52,
+    "index": 46
+  }, {
+    "question": "Obiectele dintr-o bază de date pot fi:",
+    "options": ["Funcții pentru concatenarea datelor", "Operatori conjunctivi, cursoare", "Proceduri stocate", "Tabele și indecși"],
+    "correctAnswer": 3,
+    "questionNumber": 54,
+    "index": 47
+  }, {
+    "question": "SGBD-ul oferă următoarele servicii de bază:",
+    "options": ["Arhivarea și dezarhivarea datelor", "Gestiunea accesului concurențial la date", "Limbaj de programare visual pentru accesul la date", "Scanarea datelor"],
+    "correctAnswer": 1,
+    "questionNumber": 55,
+    "index": 48
+  }, {
+    "question": "Precizați care din serviciile de mai jos este pus la dispoziție de un DBMS relațional:",
+    "options": ["Difuzarea datelor", "Analiza datelor", "Salvarea și refacerea bazelor de date", "Operativitatea datelor"],
+    "correctAnswer": 2,
+    "questionNumber": 56,
+    "index": 49
+  }, {
+    "question": "Ce se afișează când următorul cod va fi executat? DECLARE varA NUMBER := 12; BEGIN DECLARE varB NUMBER := 8; BEGIN varA := varA + varB; END; DBMS_OUTPUT.PUT_LINE(varB); END;",
+    "options": ["8", "12", "Nimic, blocul va eșua cu o eroare", "20"],
+    "correctAnswer": 2,
+    "questionNumber": 57,
+    "index": 50
+  }, {
+    "question": "Când se utilizează blocuri imbricate, care blocuri trebuie să fie etichetate?",
+    "options": ["Blocul interior trebuie să fie etichetat, blocul exterior poate fi etichetat", "Ambele blocuri trebuie etichetate", "Blocurile imbricate nu pot fi etichetate", "Blocul exterior trebuie să fie etichetat dacă va fi referit în blocul interior"],
+    "correctAnswer": 3,
+    "questionNumber": 58,
+    "index": 51
+  }, {
+    "question": "Când apare o excepție într-un bloc PL/SQL, instrucțiunile rămase în secțiunea executabilă a blocului sunt omise. Adevărat sau Fals?",
+    "options": ["Adevarat", "Fals", "Parțial adevarat", "Parțial fals"],
+    "correctAnswer": 0,
+    "questionNumber": 59,
+    "index": 52
+  }, {
+    "question": "Ce tip de bloc PL/SQL este definit prin următorul cod? BEGIN DBMS_OUTPUT.PUT_LINE('Primul test grila'); END;",
+    "options": ["procedure", "subroutine", "function", "anonim"],
+    "correctAnswer": 3,
+    "questionNumber": 60,
+    "index": 53
+  }, {
+    "question": "Examinați următorul cod. Care este valoarea finală a variabilei V_MYVAR? DECLARE v_myvar NUMBER; BEGIN v_myvar := 1 + 2 * 3; v_myvar := v_myvar * 2; END;",
+    "options": ["81", "49", "14", "18"],
+    "correctAnswer": 2,
+    "questionNumber": 61,
+    "index": 54
+  }, {
+    "question": "Litera P in expresia PL/SQL vine de la:",
+    "options": ["Processing", "Procedural", "Primary", "Proprietary"],
+    "correctAnswer": 1,
+    "questionNumber": 62,
+    "index": 55
+  }, {
+    "question": "Ce se întâmplă după execuția următorului cod? BEGIN FOR i in 1 ..3 LOOP DBMS_OUTPUT.PUT_LINE (i); i := i + 1; END LOOP;END;",
+    "options": ["Se afișează 1, 2, 3", "Se afișează 2, 3, 4", "Va rezulta o eroare deoarece nu se poate modifica contorul într-o bucla FOR", "Va rezulta o eroare deoarece contorul nu a fost declarat în mod explicit"],
+    "correctAnswer": 2,
+    "questionNumber": 63,
+    "index": 56
+  }, {
+    "question": "Examinați următorul cod. Care este valoarea finală a variabilei V_MYBOOL? DECLARE v_mynumber NUMBER; v_mybool BOOLEAN; BEGIN v_mynumber := 6; v_mybool := (v_mynumber BETWEEN 10 AND 20); v_mybool := NOT (v_mybool); END;",
+    "options": ["Adevarat", "Fals", "Parțial adevarat", "Parțial fals"],
+    "correctAnswer": 0,
+    "questionNumber": 64,
+    "index": 57
+  }, {
+    "question": "Care dintre atributele cursorului este setat la numărul total de linii?",
+    "options": ["%ISOPEN", "%NOTFOUND", "%FOUND", "%ROWCOUNT"],
+    "correctAnswer": 3,
+    "questionNumber": 65,
+    "index": 58
+  }, {
+    "question": "Ce se obține prin interogarea SQL? SELECT NRFACTMED; FROM CLIENTI,FACTURI; WHERE CLIENTI.CODCL=FACTURI.CODCL AND VALOARE BETWEEN 700000 AND 11000000",
+    "options": ["numai facturile cu valori între 700000 și 11000000", "numai facturile cu valoare de 700000 și 11000000", "numai facturile cu valoare de 700000 sau 11000000", "numai facturile cu valoare mai mare sau egală cu 500000 și mai mică sau egală cu 1000000"],
+    "correctAnswer": 0,
+    "questionNumber": 67,
+    "index": 59
+  }, {
+    "question": "Ce se obține prin următoarea interogare SQL: SELECT Nume FROM STUDENTI WHERE Grupa IN (SELECT Grupa from STUDENTI WHERE Nrmatricol=”CA001214”)",
+    "options": ["numele studentului cu numărul matricol CA001214", "numele studenților care sunt în grupă cu studentul cu matricolul CA001214", "grupa din care face parte studentul cu matricolul CA001214", "numele studenților care sunt în grupă cu studentul cu matricolul diferit de CA001214"],
+    "correctAnswer": 0,
+    "questionNumber": 68,
+    "index": 60
+  }, {
+    "question": "Ce rezultat se obține prin aplicaea următoarei fraze SELECT: SELECT nume FROM STUDENTI, EXAMENE; WHERE STUDENTI. Matricol= EXAMENE.matricol AND nota=10; GROUP BY matricol; HAVING COUNT (*)>=2",
+    "options": ["numele studenților care au promovat examenele cu nota 10", "numele studenților care au promovat cel puțin două examene cu nota 10", "examenele la care cel puțin doi studenți au luat nota 10", "numele studenților care au promovat examenele cu nota mai mică ca 10"],
+    "correctAnswer": 1,
+    "questionNumber": 69,
+    "index": 61
+  }, {
+    "question": "În Oracle SQL * PLUS, functia LOWER (col/value) permite:",
+    "options": ["forțarea caracterelor scrise cu litere mari sau mixte, în caractere scrise cu litere mici", "forțarea caracterelor scrise cu litere mici în caractere scrise cu litere mari", "returnarea numărului de caractere din coloana sau valoarea literal", "translatarea lungimii caracterelor dintr-o coloană/valoare la o lungime specificată"],
+    "correctAnswer": 0,
+    "questionNumber": 70,
+    "index": 62
+  }],
+  "POO": [{
+    "question": "Care răspuns este cel corect, pentru definiţia constructorului unei clase?",
+    "options": ["Constructorul este o metodă folosită pentru a afişa valorile variabilelor de instanţă", "Constructorul este o metodă folosită pentru a returna valorile variabilelor de instanţă", "Constructorul este o metodă specială a unei clase, care are numele clasei şi care este apelată automat la instanţierea unui obiect din clasa respectivă", "Constructorul este o metodă folosită pentru a şterge obiecte din memoria dinamică"],
+    "correctAnswer": 2,
+    "questionNumber": 1,
+    "index": 0
+  }, {
+    "question": "Se dă clasa A definită astfel: class A{ private int x; ... } Care răspuns este cel corect, pentru definiţia c",
+    "options": ["public void A(int x){ x=x;}", "public A(int a){ x=a;}", "public A( ){ x=0;}", "public A(int a){ a=x;}"],
+    "correctAnswer": 1,
+    "questionNumber": 2,
+    "index": 1
+  }, {
+    "question": "Se dă clasa A definită astfel: class A{ private int x; private int y;... } Care răspuns este cel corect, pentru definiţia constructorului ce iniţializează variabilele de instanţă x şi y cu valori date ca parametrii ?",
+    "options": ["public A(int x, int y){ this.x=x; this.y=y;}", "public A(int a){ x=a;}", "public A( ){ x=0; y=0;}", "public A(int a, int b){ a=x; b=y;}"],
+    "correctAnswer": 0,
+    "questionNumber": 3,
+    "index": 2
+  }, {
+    "question": "Se dă clasa A definită astfel: class A{ private int x; private int y; private int z; ... } Care răspuns este cel corect, pentru definiţia constructorului ce iniţializează variabilele de instanţă x, y şi z cu valori date ca parametrii?",
+    "options": ["public A(int x, int y, int z){ this.x=x; this.y=y;}", "public A(int a, int b, int c){ x=a; y=b; z=c;}", "public A( ){ x=0; y=0; z=0;}", "public A(int a, int b, int c){ a=x; b=y; c=z;}"],
+    "correctAnswer": 1,
+    "questionNumber": 4,
+    "index": 3
+  }, {
+    "question": "Se dă clasa A definită astfel: class A{ private int x; private String y; ... } Care răspuns este cel corect, pentru definiţia constructorului ce iniţializează variabilele de instanţă x şi y cu valori date ca parametrii?",
+    "options": ["public A(int x, String y){ this.x=y; this.y=x;}", "public A(int a, String b){ x=a; b=y;}", "public A( ){ x=0; y=””;}", "public A(int x, String y){ this.x=x; this.y=y;}"],
+    "correctAnswer": 3,
+    "questionNumber": 5,
+    "index": 4
+  }, {
+    "question": "Care răspuns este cel corect, referitor la variabilele de instanţă dintr-o clasă si variabilele locale unei metode dintr-o clasă?",
+    "options": ["Atât varibilele locale cât şi cele de instanţă sunt vizibile (cunoscute) în toată clasa", "Doar variabilele locale sunt vizibile (cunoscute) în toată clasa", "Doar variabilele de instanţă sunt vizibile (cunoscute) în toată clasa", "Nici varibilele locale şi nici cele de instanţă nu sunt vizibile (nu sunt cunoscute) în toată clasa"],
+    "correctAnswer": 2,
+    "questionNumber": 6,
+    "index": 5
+  }, {
+    "question": "Care răspuns este cel corect, prin care se declară constanta NR_ZILE_IN_SAPTAMANA atribuindu-i valoarea 7 ?",
+    "options": ["final int NR_ZILE_IN_SAPTAMANA=7", "final int NR=7", "public int NR_ZILE_IN_SAPTAMANA=7;", "const int NR_ZILE_IN_SAPTAMANA 7"],
+    "correctAnswer": 0,
+    "questionNumber": 7,
+    "index": 6
+  }, {
+    "question": "Se da clasa A al cărei constructor are semnătura: public A(int x); Care răspuns este cel corect, pentru un exemplu de instanţiere a unui obiect din clasa A?",
+    "options": ["A obj=new A( )", "A obj=new (5)", "A obj=new int(5)", "A obj=new A(5)"],
+    "correctAnswer": 3,
+    "questionNumber": 8,
+    "index": 7
+  }, {
+    "question": "Se dă clasa A al cărei constructor are semnătura: public A(int x, int y, int z); Care răspuns este cel corect, pentru un exemplu de instanţiere a unui obiect din clasa A?",
+    "options": ["A obj=new Object(1,2,3)", "A obj=new A(1,2,3)", "A obj=new A(1,3)", "A obj=new A( )"],
+    "correctAnswer": 1,
+    "questionNumber": 10,
+    "index": 8
+  }, {
+    "question": "Se dă clasa A al cărei constructor are semnătura: public A(int x, String y); Care răspuns este cel corect, pentru un exemplu de instanţiere a unui obiect din clasa A?",
+    "options": ["A obj=new A( )", "A obj=new A(1,”unu”)", "A obj=new A(1,1)", "A obj=new A(“1”,1)"],
+    "correctAnswer": 1,
+    "questionNumber": 11,
+    "index": 9
+  }, {
+    "question": "În clasa Math este definită metoda random( ) ce generează un numar aleator intre 0 si 1. Metoda are semnătura: public static double random(); Care răspuns este cel corect, pentru un exemplu de apel a acestei metode, dintr-o altă clasă?",
+    "options": ["double x=random( )", "double x=random(0, 1)", "double x=Math.random( )", "double x=Math.random(0, 1)"],
+    "correctAnswer": 2,
+    "questionNumber": 12,
+    "index": 10
+  }, {
+    "question": "În clasa Random este definită metoda nextInt( ), ce are semnatura: public int nextInt( int N ); Care răspuns este cel corect, pentru un exemplu de apel a acestei metode, dintr-o altă clasă?",
+    "options": ["Random r=new Random( ); int rezultat=r.nextInt(100)", "Random r=new Random( ); int rezultat=r.nextInt( )", "int rezultat=nextInt(100)", "Random r=new Random( ); int rezultat=nextInt(100)"],
+    "correctAnswer": 0,
+    "questionNumber": 13,
+    "index": 11
+  }, {
+    "question": "Care răspuns este cel corect, pentru definiţia polimorfismului parametric?",
+    "options": ["În aceeaşi clasă putem avea metode cu număr diferit de parametrii", "În aceeaşi clasă putem avea metode ce au acelaşi nume, dar care diferă între ele prin numărul sau tipul parametrilor", "În aceeaşi clasă avem doar metode care au acelaşi număr de parametrii", "În aceeaşi clasă putem avea metode ce au aceelaşi antet dar care diferă prin implementare"],
+    "correctAnswer": 1,
+    "questionNumber": 14,
+    "index": 12
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static int f( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A al acestei metode?",
+    "options": ["int x=f( );", "int x=A.f( );", "A obj=new A( ); obj.f( );", "int x=D.f( );"],
+    "correctAnswer": 1,
+    "questionNumber": 15,
+    "index": 13
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static void f(int x ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A al acestei metode?",
+    "options": ["f(7);", "int rezultat=A.f( );", "A obj=new A( ); int x=obj.f( );", "A.f(7);"],
+    "correctAnswer": 3,
+    "questionNumber": 16,
+    "index": 14
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static void f(int x, int y ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A al acestei metode?",
+    "options": ["int x=A.f(5);", "f(x,y);", "A.f(3, 5);", "int x=f(y);"],
+    "correctAnswer": 2,
+    "questionNumber": 17,
+    "index": 15
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static int f(double x ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["int x=A.f(5.3);", "int x=f(5.3);", "int rezultat=f(x);", "A.f(5,3);"],
+    "correctAnswer": 0,
+    "questionNumber": 18,
+    "index": 16
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static double f(int x, int y); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["double x=A.f(y);", "double x=A.f(5,3);", "double rezultat=f(5,3);", "A.f(5.3);"],
+    "correctAnswer": 1,
+    "questionNumber": 19,
+    "index": 17
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static double f(double x); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["double x=A.f(1.2);", "double rezultat=A.f(1,2);", "double rezultat=f(1.2);", "A.f(1,2);"],
+    "correctAnswer": 0,
+    "questionNumber": 20,
+    "index": 18
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static void f( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["f( );", "void rezultat=f( );", "A.f( );", "int rezultat=A.f( );"],
+    "correctAnswer": 2,
+    "questionNumber": 21,
+    "index": 19
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static void f(String s); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["f(“exa”,”men”);", "A.f(“exa”,”men”);", "f(“examen”);", "A.f(“examen”);"],
+    "correctAnswer": 3,
+    "questionNumber": 22,
+    "index": 20
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static int f(String s); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["int rezultat=f(“examen”);", "int rezultat=A.f(“exa”,”men”);", "int x=A.f(“examen”);", "A.f(“exa”,”men”);"],
+    "correctAnswer": 2,
+    "questionNumber": 23,
+    "index": 21
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static int f(int a[ ] ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["int a[ ]={1,2,10}; int rezultat=f(a[ ]);", "int b[ ]={1,2,10}; int a=A.f(b);", "int a[ ]={1,2,10}; int rezultat=A.f(a,3);", "int a[ ]={1,2,10}; int rezultat=f(a,3);"],
+    "correctAnswer": 1,
+    "questionNumber": 24,
+    "index": 22
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static int f(int a[ ][ ] ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["int a[ ][ ]={{1,2},{1,0}}; int rezultat=f(a);", "int a[ ][ ]={{1,2},{1,0}}; int rezultat=A.f(a,2,2);", "int a[ ][ ]={{1,2},{1,0}}; int rezultat=A.f(a);", "int a[ ][ ]={{1,2},{1,0}}; int rezultat=f(a,2,2);"],
+    "correctAnswer": 2,
+    "questionNumber": 25,
+    "index": 23
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static boolean f(int x, int y); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["boolean x=f(y);", "boolean x=A.f(y);", "boolean rezultat=f(3,5);", "boolean x=A.f(3,3);"],
+    "correctAnswer": 3,
+    "questionNumber": 26,
+    "index": 24
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static boolean f(int a[ ], int b[ ] ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["int a[ ]={1,0}; int b[ ]={1,2,1}; boolean x=A.f(a,b);", "int a[ ]={1,0}; int b[ ]={1,2,1}; boolean x=f(a,b);", "int a[ ]={1,0}; int b[ ]={1,2,1}; boolean x=f(a,2,b,3);", "int a[ ]={1,0}; int b[ ]={1,2,1}; boolean x=A.f(a,2,b,3);"],
+    "correctAnswer": 0,
+    "questionNumber": 27,
+    "index": 25
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static int f(int a[ ], int b[ ]); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["int a[ ]={1,0}; int b[ ]={1,2,1}; int x=A.f(a,2,b,3);", "int a[ ]={1,0}; int b[ ]={1,2,1}; int x=f(a,b);", "int a[ ]={1,0}; int b[ ]={1,2,1}; int x=f(a,2,b,3);", "int a[ ]={1,0}; int b[ ]={1,2,1}; int x=A.f(a,b);"],
+    "correctAnswer": 3,
+    "questionNumber": 28,
+    "index": 26
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static boolean f(int x); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["boolean rezultat=A.f( );", "f(3);", "boolean x=A.f(3);", "boolean rezultat=f(3);"],
+    "correctAnswer": 2,
+    "questionNumber": 29,
+    "index": 27
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public static boolean f(String s1, String s2); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A.f(s1,s2);", "boolean x=A.f(“mar”,”para”);", "boolean x=f(“mar”,”para”);", "f(“mar”,”para”);"],
+    "correctAnswer": 1,
+    "questionNumber": 30,
+    "index": 28
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public int f( ); Constructorul clasei A are semnatura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A x=new A( ); int rezultat=x.f( );", "int rezultat=f( );", "int rezultat=A.f( );", "A x=new A( ); int rezultat=f(x);"],
+    "correctAnswer": 0,
+    "questionNumber": 31,
+    "index": 29
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public void f(int x ); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A al acestei metode?",
+    "options": ["A obj=new A( ); int x=obj.f( );", "int x=7; f(x);", "A.f(7);", "A x=new A( ); x.f(7);"],
+    "correctAnswer": 3,
+    "questionNumber": 32,
+    "index": 30
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public void f(int x, int y ); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A x=new A( ); x.f(y);", "A obj=new A( ); obj.f(3,5);", "f(3,5);", "A.f(3,5);"],
+    "correctAnswer": 1,
+    "questionNumber": 33,
+    "index": 31
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public int f(double x ); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A x=new A( ); int rezultat=x.f(3.5);", "int rezultat=f(3.5);", "int rezultat=A.f(3.5);", "A obj=new A(3.5); int rezultat=obj.f( );"],
+    "correctAnswer": 0,
+    "questionNumber": 34,
+    "index": 32
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public double f(int x, int y); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A x=new A(y); x.f( );", "double rezultat=f(3,5);", "double rezultat=A.f(3,5);", "A obj=new A( ); double x=obj.f(3,5);"],
+    "correctAnswer": 3,
+    "questionNumber": 35,
+    "index": 33
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public double f(double x); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A x=new A( ); double y=A.f(3.5);", "double y=f(3.5);", "A x=new A( ); double y=f(x);", "A x=new A( ); double y=x.f(3.5);"],
+    "correctAnswer": 3,
+    "questionNumber": 36,
+    "index": 34
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public void f( ); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["f( );", "A x=new A( ); x.f( );", "A x=new A( ); f(x);", "A.f( );"],
+    "correctAnswer": 1,
+    "questionNumber": 37,
+    "index": 36
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public int f(int nr); Clasa A are trei variabile de instanţă private: x, z şi y, de tip int. Constructorul clasei A are semnătura: public A(int x, int y, int z); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A x=new A(1,2,3); int rezultat=x.f(7);", "A x=new A(y,z); int rezultat=x.f( );", "int rezultat=A.f(123);", "int rezultat=f(123);"],
+    "correctAnswer": 0,
+    "questionNumber": 38,
+    "index": 37
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura:public void f(String s); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A obj=new A(“examen”); obj.f( ):", "f(“examen”);", "A.f(“examen”);", "A obj=new A( ); obj.f(“examen”);"],
+    "correctAnswer": 3,
+    "questionNumber": 39,
+    "index": 38
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public int f(String s); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A obj=new A(“abc”); int x=obj.f( );", "int rezultat=f(“abc”);", "A obj=new A( ); int x=obj.f(“abc”);", "int rezultat=A.f(“abc”);"],
+    "correctAnswer": 2,
+    "questionNumber": 40,
+    "index": 39
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public int f(int a[ ] ); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A obj=new A( ); int a[ ]={1,2,3}; int x=obj.f(a,3);", "int a[ ]={1,2,3}; int x=A.f(a);", "A obj=new A( ); int a[ ]={1,2,3}; int x=obj.f(a);", "int a[ ]={1,2,3}; int rezultat=f(a);"],
+    "correctAnswer": 2,
+    "questionNumber": 41,
+    "index": 40
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public int f(int a[ ][ ] ); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["int a[ ][ ]={{1,2},{1,0}}; A obj=new A( ); int x=obj.f(a,2,2);", "int a[ ][ ]={{1,2},{1,0}}; int rezultat=f(a);", "int a[ ][ ]={{1,2},{1,0}}; int rezultat=A.f(a);", "int a[ ][ ]={{1,2},{1,0}}; A obj=new A( ); int x=obj.f(a);"],
+    "correctAnswer": 3,
+    "questionNumber": 42,
+    "index": 41
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public boolean f(int x, int y); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["boolean rezultat=A.f(3,5);", "A obj=new A( ); boolean rezultat=obj.f(3,5);", "boolean rezultat=f(3,5);", "A obj=new A(3,5); boolean rezultat=obj.f( );"],
+    "correctAnswer": 1,
+    "questionNumber": 43,
+    "index": 42
+  }, {
+    "question": "Care răspuns este cel corect, la întrebarea : care variabile de instanţă, se moştenesc din clasa de bază, în clasa derivată?",
+    "options": ["doar variabilele de instanţă publice", "variabilele de instanţă private", "cele care nu au specificatorul de acces protected", "cele care au specificatorul de acces public sau protected"],
+    "correctAnswer": 3,
+    "questionNumber": 44,
+    "index": 43
+  }, {
+    "question": "Care răspuns este cel corect, la întrebarea: cum se tratează in Java, o excepţie care este obligatoriu de tratat?",
+    "options": ["se foloseşte instrucţiunea return", "se tratează într-o clasă separată", "se tratează în blocuri try ... catch", "se foloseşte cuvântul cheie break"],
+    "correctAnswer": 2,
+    "questionNumber": 45,
+    "index": 44
+  }, {
+    "question": "În clasa A avem definită metoda f( ), ce are semnătura: public char f(String s); Constructorul clasei A are semnătura: public A( ); Care răspuns este cel corect, pentru un exemplu de apel, din afara clasei A, al acestei metode?",
+    "options": ["A obj=new A( ); char x=obj.f(“mar”);", "char rezultat=f(“mar”);", "char rezultat=A.f(“mar”);", "A obj=new A(“mar”); char rezultat=obj.f( );"],
+    "correctAnswer": 0,
+    "questionNumber": 46,
+    "index": 45
+  }, {
+    "question": "Care răspuns este cel corect, la întrebarea: unde poate fi accesată o metodă privată a unei clase?",
+    "options": ["doar în metodele clasei respective", "doar în metodele publice ale clasei respective", "doar în constructorul clasei", "doar în metodele publice ale altor clase"],
+    "correctAnswer": 0,
+    "questionNumber": 47,
+    "index": 46
+  }, {
+    "question": "Care răspuns este cel corect, la întrebarea: cum se compară in limbajul Java, două stringuri s1 şi s2, dacă au acelasi conţinut?",
+    "options": ["se foloseşte operatorul de comparaţie = =", "se foloseşte metoda compareTo( )", "se foloseşte operaţia aritmetică de scădere", "se foloseşte operatorul ="],
+    "correctAnswer": 1,
+    "questionNumber": 48,
+    "index": 47
+  }, {
+    "question": "Care răspuns este cel corect, la întrebarea: cum se instanţiază un vector de 20 de numere întregi, in limbajul Java?",
+    "options": ["int* a=malloc(20*sizeof(int));", "int a=new int[20];", "int a[ ] = new int[20];", "int a[20];"],
+    "correctAnswer": 2,
+    "questionNumber": 49,
+    "index": 48
+  }, {
+    "question": "Care răspuns este cel corect, la întrebarea: cum se instanţiază o matrice pătratică de numere întregi, de 10 linii, in limbajul Java?",
+    "options": ["int a[ ]=new int[10];", "int a[10];", "int a[10][10];", "int a[ ][ ]=new int[10][10];"],
+    "correctAnswer": 3,
+    "questionNumber": 50,
+    "index": 49
+  }, {
+    "question": "Clasa Punct are ca variabile de instanţă coordonatele x, y şi z ale unui punct ( de tipul int ). Care răspuns este cel corect, pentru definiţia constructorului acestei clase?",
+    "options": ["public void Punct(int x,int y, int z){this.x=x; this.y=y; this.z=z;}", "public Punct(int a, int b, int c){x=a; y=b; z=c;}", "public void Punct(x=0; y=0; z=0;}", "public Punct(int a, int b, int c){a=x; b=y; c=z;}"],
+    "correctAnswer": 1,
+    "questionNumber": 51,
+    "index": 50
+  }, {
+    "question": "Clasa Punct are ca variabile de instanţă coordonatele x, z şi y ale unui punct ( de tipul int ). Constructorul clasei are semnătura:public Punct(int x, int y, int z) Care răspuns este cel corect, pentru un exemplu de instanţiere a unui obiect p din această clasă?",
+    "options": ["Punct p(x,y,z);", "Punct p=new Punct( );", "Punct p(1,2,3);", "Punct p=new Punct(1,1,1);"],
+    "correctAnswer": 3,
+    "questionNumber": 52,
+    "index": 51
+  }, {
+    "question": "Se dă clasa Cerc ce are ca variabilă de instanţă raza cercului. Care răspuns este cel corect, pentru definiţia metodei publice arie( ) , din această clasă, ce returnează aria cercului?",
+    "options": ["public int arie( ) { return 3.14*raza*raza;}", "public double arie( ){ double a=Math.PI*raza*raza;}", "public double arie( ){ return Math.PI*raza*raza;}", "public double arie( int raza){ return 3.14*raza^2;}"],
+    "correctAnswer": 2,
+    "questionNumber": 53,
+    "index": 52
+  }, {
+    "question": "Clasa Cerc are ca variabile de instanţă raza cercului şi coordonatele centrului (de tip int). Constructorul clasei are semnătura : public Cerc(int r, int x0, int y0). În clasa Cerc este definită metoda arie( ) ce returnează aria cercului, cu semnătura: public double arie( ) Care răspuns este cel corect, pentru un exemplu de apel al metodei arie( ) din afara clasei Cerc?",
+    "options": ["double a= arie( );", "double a=Cerc.arie( );", "double a=Cerc(0,1,1).arie( );", "Cerc c=new Cerc(0,1,1); double a=c.arie( );"],
+    "correctAnswer": 3,
+    "questionNumber": 54,
+    "index": 53
+  }, {
+    "question": "Se dă clasa Cerc ce are ca variabilă de instanţă raza cercului.Care răspuns este cel corect, pentru definiţia metodei publice perimetru( ) , din această clasă, ce returnează perimetrul cercului?",
+    "options": ["public double perimetru(int raza){ return 6.28*raza;}", "public double perimetru( ){ return 2*Math.PI*raza;}", "public int perimetru( ){ return 2*3.14*raza;}", "public double perimetru( ){ double p=2*Math.PI*raza; System.out.print(p);}"],
+    "correctAnswer": 1,
+    "questionNumber": 55,
+    "index": 54
+  }, {
+    "question": "Se dă clasa Dreptunghi, ce are ca variabile de instanţă private, două numere întregi a şi b, ce reprezintă lungimile laturilor unui dreptunghi. Care răspuns este cel corect, pentru definiţia metodei publice estePatrat(), din această clasă, ce returnează true dacă dreptunghiul este pătrat şi false dacă nu este?",
+    "options": ["public boolean estePatrat( ){ if(a = = b)return true; else return false;}", "public int estePatrat(int a, int b){ if( a= = b)return 1; else return 0;}", "public void estePatrat( ){ if( a = = b )return true; else return false;}", "public int estePatrat(int a, int b){if((this.a= =a)&&(this.b= =b))return 1;else return 0;}"],
+    "correctAnswer": 0,
+    "questionNumber": 56,
+    "index": 55
+  }, {
+    "question": "Se dă clasa Cerc ce are ca variabile de instanţă raza cercului. Care răspuns este cel corect, pentru definiţia metodei publice afisare( ) , din această clasă, ce afişează raza cercului?",
+    "options": ["Cerc c=new Cerc(3); c.afisare( );", "public void afisare( ){ System.out.println(“raza = “+raza); }", "public void afisare( ){ return raza; }", "public int afisare( ){ return raza;}"],
+    "correctAnswer": 1,
+    "questionNumber": 57,
+    "index": 56
+  }, {
+    "question": "Se dă clasa Cerc ce are ca variabile de instanţă raza cercului, de tipul int. Care răspuns este cel corect, pentru definiţia metodei publice diametru( ) , din această clasă, ce ce returnează diametrul cercului?",
+    "options": ["public void diametru( int raza){ return 2*raza;}", "Cerc c=new Cerc(10); int d=c.diametru( );", "int d=Cerc.diametru( );", "public int diametru( ){ return 2*raza;}"],
+    "correctAnswer": 3,
+    "questionNumber": 58,
+    "index": 57
+  }, {
+    "question": "Se dă clasa Dreptunghi, ce are ca variabile de instanţă private, două numere întregi a şi b, ce reprezintă lungimile laturilor unui dreptunghi. Care răspuns este cel corect, pentru definiţia metodei publice afisare( ), din această clasă, ce afişează lungimile laturilor dreptunghiului?",
+    "options": ["Dreptunghi.afisare(a,b);", "public void afisare(int a, int b){ return a; return b;}", "public void afisare( ){System.out.println(“a=”+a+” b=”+b);}", "public void afisare( int a, int b){ return a; return b;}"],
+    "correctAnswer": 2,
+    "questionNumber": 59,
+    "index": 58
+  }, {
+    "question": "Se dă clasa Unghi, ce are ca variabilă de instanţă privată un număr întreg x, măsura în grade a unui unghi. Care răspuns este cel corect, pentru definiţia metodei publice suntComplementare(), din această clasă, ce are ca parametru un alt unghi u, şi care returnează true dacă unghiul u este complementar cu unghiul curent (au împreună 90 de grade), şi false în caz contrar?",
+    "options": ["public boolean suntComplementare(int u){if(x+u= =90)return true; else return false;}", "boolean sunt=suntComplementare(x,u);", "public boolean suntComplementare(int u){if(u= =90)return true; else return false;}", "public void sunt complementare(int x, int u){if(x+u= =90)return true; else return false;}"],
+    "correctAnswer": 0,
+    "questionNumber": 60,
+    "index": 59
+  }, {
+    "question": "Se dă clasa Dreptunghi, ce are ca variabile de instanţă private, două numere întregi a şi b, ce reprezintă lungimile laturilor unui dreptunghi. Care răspuns este cel corect, pentru definiţia metodei publice calculPerimetru(), din această clasă, ce returnează perimetrul dreptunghiului?",
+    "options": ["public void calculPerimetru( int a, int b){ int p=2*a+2*b;}", "public int calculPerimetru(int a, int b){ return a*b;}", "public void calculPerimetru( int a, int b){ return 2*a+2*b;}", "public int calculPerimetru( ){ int p=2*(a+b); return p;}"],
+    "correctAnswer": 3,
+    "questionNumber": 61,
+    "index": 60
+  }, {
+    "question": "Se dă clasa Complex, ce are variabile de instanţă private două numere întregi re şi im (partea reală şi partea imaginară a unui număr complex). Care răspuns este cel corect, pentru definiţia metodei publice setRe(), din această clasă, ce are ca parametru un număr întreg re, ce se va atribui variabilei de instanţă re ?",
+    "options": ["public void setRe(int re){re=re;}", "public int setRe( ){ return re;}", "public void setRe(int re){this.re=re;}", "public void setRe(int re){ return this. re;}"],
+    "correctAnswer": 2,
+    "questionNumber": 64,
+    "index": 61
+  }, {
+    "question": "Se dă clasa Complex, ce are variabile de instanţă private două numere întregi re şi im (partea reală şi partea imaginară a unui număr complex) .Care răspuns este cel corect, pentru definiţia metodei publice getRe(), din această clasă, ce returnează partea reală a numărului complex ?",
+    "options": ["public void getRe(int re){ this.re=re;}", "public double getRe( double re){ return re;}", "public double getRe( ){ return re; return im;}", "public int getRe( ){ return re;}"],
+    "correctAnswer": 3,
+    "questionNumber": 65,
+    "index": 62
+  }],
+  "RET": [{
+      "question": "Niveluri ale modelului TCP/IP",
+      "options": [
+        "sunt, in ordine: Acces la rețea, Internet, Transport, Aplicație",
+        "sunt, in ordine: Fizic, Legătura de date, Rețea, Transport, Sesiune, Prezentare, Aplicație",
+        "sunt, in ordine: Fizic, Legătura de date, Internet, Transport, Sesiune, Prezentare, Aplicație",
+        "sunt, in ordine: Fizic, Rețea, Transport, Aplicație"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 2,
+      "index": 0
+    },
+    {
+      "question": "Care este ordinea corecta de încapsulare a informației pentru a trimite date prin mediul de transmisie?",
+      "options": [
+        "Pentru HTTP: Data,segment,cadru,pachet,bit",
+        "Pentru FTP: Data,segment,pachet,cadru,bit",
+        "Pentru TFTP: Data,datagrama,pachet,bit",
+        "Pentru SSH: Datagrama,segment,pachet,cadru,bit"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 3,
+      "index": 1
+    },
+    {
+      "question": "Care sunt caracteristicile comutației de circuite?",
+      "options": [
+        "Stabilește o corespondenta intre doua terminale printr­un circuit fizic pus la dispoziție pe toata durata comunicației. În intervalele de timp în care nu se transmit date, deși circuitul nu este utilizat, capacitatea sa de transmisiune fiind astfel irosita",
+        "Stabilește o corespondenta intre doua terminale printr­un circuit fizic pus la dispoziție doar in momentul in care cele doua terminale transmit date. Daca circuitul nu este folosit, circuitul fizic poate fi reutilizat de alte comunicații",
+        "Stabilește o corespondenta intre doua sau mai multe terminale printr­un circuit fizic pus la dispoziție pe toata durata comunicației. Terminalele sunt identificate prin adresa IP",
+        "Stabilește o corespondenta de tip broadcast intre doua sau mai multe terminale printr­un circuit fizic pus la dispoziție pe toata durata comunicației. Etapele schimbului sunt: Stabilirea conexiunii; transferul datelor; terminarea conexiunii"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 4,
+      "index": 2
+    },
+    {
+      "question": "Care sunt caracteristicile comutației de pachete?",
+      "options": [
+        "Mesajele sunt divizate in pachete de lungime limitata care pentru a putea fi transmise necesita stabilirea conexiunii intre sursa si destinație",
+        "Mesajele, numite pachete, sunt direcționate individual de către rutere pe baza analizei adresei sursa",
+        "Mesajele sunt divizate in pachete de lungime limitata, care conțin informația necesara pentru a fi deosebite de celelalte pachete din rețea",
+        "Mesajele sunt divizate in pachete de lungime fixa, pentru a putea reutiliza eficient canalele de comunicație disponibile dintre sursa si destinație"
+      ],
+      "correctAnswer": 2,
+      "questionNumber": 5,
+      "index": 3
+    },
+    {
+      "question": "Care sunt caracteristicile comutației de celule?",
+      "options": [
+        "Folosește pachete de dimensiune fixa numite celule care au o lungime fixa de 53 de octeți",
+        "Folosește pachete mici de dimensiune variabila (intre 48 si 64 de octeți) numite celule si poate trata oricare tip de trafic): voce, audio, video, timp real, date",
+        "Folosește pachete mici, numite celule si stabilește circuite virtuale care sunt identificate prin adresa IP",
+        "Folosește pachete de dimensiune fixa numite celule si, din acest motiv, nu poate garanta calitatea serviciilor (QoS)"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 6,
+      "index": 4
+    },
+    {
+      "question": "Componentele latentei in rețele de calculatoare",
+      "options": [
+        "Întârzierile variabile datorate timpului de transfer, timpului de transmisie si cozii de procesare a pachetelor in ruter",
+        "Întârzierile fixe datorate cozii de procesare a pachetelor in ruter si timpului de transmisie, precum si cea variabila datorata timpului de transfer",
+        "Întârzierile fixe datorate timpului de transfer si timpului de transmisie, precum si cea variabila datorata cozii de procesare a pachetelor in ruter",
+        "Întârzierile fixe datorate timpului de transfer si cozii de procesare a pachetelor in ruter, precum si cea variabila datorata timpului de transmisie"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 7,
+      "index": 5
+    },
+    {
+      "question": "Medii de transmisie wireless in rețele de calculatoare: Infraroșu. Caracteristici",
+      "options": [
+        "Este un mediu sensibil la lumina soarelui, consuma foarte puțin si are o structura hardware simpla. Acest mediu de transmisie are o viteza de transfer mica dar oferă o mobilitate mare utilizatorilor",
+        "recepție de cel pentru transmisie. Este un mediu de transmisie sigur care necesita ca sursa si destinația sa se afle in raza vizuala directa iar viteza de transmisie scade rapid odată cu creșterea distantei",
+        "Este un mediu de transmisie care are o viteza de transfer mica si oferă o mobilitate redusa. Este un mediu sensibil la interferentele RFI, consuma foarte puțin si are o structura hardware simpla",
+        "Este o tehnologie de comunicare 1:1 care necesita un adaptor diferit pentru recepție de cel pentru transmisie. Acest mediu de transmisie are o viteza de transfer mica si transmisia este omnidirecționala"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 8,
+      "index": 6
+    },
+    {
+      "question": "Medii de transmisie wireless in rețele de calculatoare: Bluetooth. Caracteristici",
+      "options": [
+        "Este o tehnologie care folosește unde radio de frecvente apropiate de 2,4GHz, cu transmisie omnidirecționala, care permite securizarea schimbului de informații bazându­se pe Bluetooth PIN",
+        "Este o tehnologie care folosește unde radio de frecvente apropiate de 2,4GHz, care necesita ca sursa si destinația sa se afle in raza vizuala directa si care permite securizarea schimbului de informații bazându­se pe Bluetooth PIN",
+        "Este o tehnologie care folosește unde radio de frecvente apropiate de 5GHz, folosita pentru comunicarea cu dispozitivele mobile, cu transmisie omnidirecționala de viteza mare",
+        "Este o tehnologie care folosește unde radio de frecvente apropiate de 2,4GHz, care necesita ca sursa si destinația sa se afle in raza vizuala directa si permite distante maxime de 100m, limitate de puterea maxima de emisie permisa"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 9,
+      "index": 7
+    },
+    {
+      "question": "Medii de transmisie wireless in rețele de calculatoare: Wi­Fi. Caracteristici",
+      "options": [
+        "Standardul IEEE 802.11g oferă un mod de compatibilitate cu 802.11b, precizează o viteza de transfer de 54Mbps si folosește unde radio cu frecvente apropiate de 5,8GHz",
+        "Standardul IEEE 802.11n precizează o viteza de transfer de maxim 600Mbps si poate folosi unde radio cu frecvente apropiate atât de 2,4GHz cat si de 5GHz",
+        "Standardul IEEE 802.11b precizează o viteza de transfer de 11Mbps si folosește unde radio cu frecvente apropiate de 2,4GHz, iar standardul IEEE 802.11a precizează o viteza de transfer de 54Mbps si folosește unde radio cu frecvente apropiate de 5,8GH",
+        "Standardul IEEE 802.11ac precizează o viteza de transfer de aproximativ 1Gbps si folosește unde radio cu frecvente apropiate de 2,4GHz. Este o tehnologie noua si din acest motiv echipamentele sunt mai costisitoar"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 10,
+      "index": 8
+    },
+    {
+      "question": "Medii de transmisie prin fir in rețele de calculatoare: Fibra optica. Caracteristici",
+      "options": [
+        "Fibra optica permite transmiterea datelor pe distante mari oferind o lățime de banda mare comparativ cu alte medii de transmisie. Biții sunt codați prin fibra ca pulsuri de lumina. Fibra optica Single mode folosește dioda ca sursa de lumina si transmite semnalul in lungul fibrei optice si este capabila sa trimită semnalul la distante mai mici decât fibra optica Multi Mode. Este imuna la interferentele EMI si RFI, Siguranța comunicației este mare",
+        "Fibra optica permite transmiterea datelor pe distante mari oferind o lățime de banda mare comparativ cu alte medii de transmisie. Biții sunt codați prin fibra ca pulsuri de lumina. Fibra optica Multi mode folosește surse de lumina multiple transmis in lungul fibrei optice si este capabila sa trimită semnalul la distante mai mari decât fibra optica Single Mode. Este afectata doar de interferentele EMI puternice. Siguranța comunicației este mare",
+        "Fibra optica permite transmiterea datelor pe distante mari oferind o lățime de banda mica comparativ cu alte medii de transmisie. Biții sunt codați prin fibra ca pulsuri de lumina. Fibra optica Multi mode folosește laser ca sursa de lumina si transmite semnalul in zigzag prin fibra optica si este capabila sa trimită semnalul la distante mai mici decât fibra optica Single Mode. Este imuna la interferentele EMI si RFI, Siguranța comunicației este mare",
+        "Fibra optica permite transmiterea datelor pe distante mari oferind o lățime de banda mare comparativ cu alte medii de transmisie. Biții sunt codați prin fibra ca pulsuri de lumina. Fibra optica Single mode folosește laser ca sursa de lumina si transmite semnalul in lungul fibrei optice si este capabila sa trimită semnalul la distante mai mari decât fibra optica Multi Mode. Este imuna la interferentele EMI si RFI, Siguranța comunicației este mare"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 11,
+      "index": 9
+    },
+    {
+      "question": "Medii de transmisie prin fir in rețele de calculatoare: Cablul torsadat. Caracteristici",
+      "options": [
+        "Unshielded twisted­pair (UTP) este cel mai folosit cablu torsadat, terminat cu conectori RJ­45, format din 4 perechi torsadate pentru a proteja împotriva interferentelor. Cablul cross­over este folosit pentru conectarea intre calculatoare cat si pentru conectarea intre doua rutere. Exemplu de topologia fizica: stea",
+        "Shielded Twisted­Pair (STP) oferă o protecție mai buna împotriva zgomotului decât UTP deoarece fiecare dintre cele 4 perechi este învelita intr­o folie pentru ecranare si conectorii RJ­45 folosiți trebuie sa fie ecranați, dar este mai puțin flexibil si este mai scump. Cablul straight este folosit pentru conectarea intre ruter si switch cat si pentru conectarea intre doua echipamente switch. Exemplu de topologia fizica: magistrala (bus)",
+        "Unshielded twisted­pair (UTP) este cel mai folosit cablu torsadat, terminat cu conectori RJ­45, format din 4 perechi torsadate pentru a proteja împotriva interferentelor. Cablul cross­over este folosit pentru conectarea intre calculatoare cat si pentru conectarea intre doua echipamente switch. Exemplu de topologia fizica: stea extinsa",
+        "Shielded Twisted­Pair (STP) oferă o protecție mai buna împotriva zgomotului decât UTP deoarece fiecare dintre cele 4 perechi este învelita intr­o folie pentru ecranare si conectorii RJ­45 folosiți trebuie sa fie ecranați, dar este mai puțin flexibil si este mai scump. Cablul straight este folosit pentru conectarea intre PC si switch. Exemplu de topologia fizica: mesh"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 12,
+      "index": 10
+    },
+    {
+      "question": "Medii de transmisie prin fir in rețele de calculatoare: Cablul coaxial. Caracteristici",
+      "options": [
+        "Cablul coaxial are patru perechi de fire coaxiale, separate de un mediu izolator. Permite viteza de 100Mbps si folosește topologia magistrala (bus)",
+        "Cablul coaxial are un fir central si un înveliș metalic, separate de un mediu izolator.Folosește topologia magistrala (bus) si permite transmiterea datelor la distante mai mari intre stații decât cablul torsadat",
+        "Cablul coaxial are un fir central si un înveliș metalic, separate de un strat izolator. Mediul are viteza de 10Mbps si folosește topologia fizica stea",
+        "Cablul coaxial are un fir central si un înveliș metalic, separate de un strat izolator. Mediul are viteza de 10Mbps si folosește topologia stea extinsa"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 13,
+      "index": 11
+    },
+    {
+      "question": "Detecția erorilor in rețele de calculatoare. Cyclic Redundancy Check. Pentru o secvența binara de date si polinomul generator specificat calculați valoarea CRC",
+      "options": [
+        "Se da secvența de biți: 1001101 si polinomul generator 11011. CRC­4 este: 0101",
+        "Se da secvența de biți: 1001101 si polinomul generator 11011. CRC­4 este: 0011",
+        "Se da secvența de biți: 1001101 si polinomul generator 11011. CRC­4 este: 1001",
+        "Se da secvența de biți: 1001101 si polinomul generator 11011. CRC­4 este: 1100"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 14,
+      "index": 12
+    },
+    {
+      "question": "Echipamente folosite in rețele de calculatoare: switch. Caracteristici.",
+      "options": [
+        "Un switch este un echipament de nivelul legătura de date care realizează microsegmentarea rețelei astfel încât comunicația intre doua calculatoare sa fie vizibila doar acestora, nu si celorlalte echipamente de rețea conectate la switch",
+        "Un switch folosește adresa MAC pentru a identifica calculatoarele conectate si poate avea adresa IP pentru a putea fi administrat de la distanta",
+        "Un switch folosește adresa IP pentru a identifica calculatoarele conectate si adresa MAC pentru filtrarea traficului",
+        "Un switch este un echipament de nivelul rețea care realizează interconectarea calculatoarelor care păstrează o tabela cu echivalenta MAC­interfata"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 15,
+      "index": 13
+    },
+    {
+      "question": "Echipamente folosite in rețele de calculatoare: ruter. Caracteristici.",
+      "options": [
+        "Ruterul este un echipament de nivel rețea care citește pachetele din rețea, determina traseul care trebuie urmat si le trimite către destinație. Ruterul păstrează o tabela de rutare cu adresele rețelelor direct conectate, cele introduse manual si adresele învățate cu ajutorul protocoalelor de rutare. Ruterele introduc o latenta importanta si variabila in rețea in funcție de încărcarea acesteia",
+        "Ruterul este un echipament de nivel acces la rețea care citește pachetele din rețea, determina traseul care trebuie urmat si le trimite către destinație. Ruterul păstrează o tabela de rutare cu adresele rețelelor direct conectate, cele introduse manual si adresele învățate cu ajutorul protocoalelor de rutare. Ruterele introduc o latenta importanta si variabila in rețea in funcție de încărcarea acesteia",
+        "Ruterul este un echipament care citește pachetele din rețea, determina traseul care trebuie urmat si le trimite către destinație. Ruterul păstrează o tabela construita de către protocolul ARP pe baza căreia ia deciziile de rutare. Ruterele introduc o latenta importanta si variabila in rețea in funcție de încărcarea acesteia",
+        "Ruterul este un echipament de nivel rețea care citește pachetele din rețea, determina traseul care trebuie urmat si le trimite către destinație. Ruterul păstrează o tabela de rutare cu adresele rețelelor direct conectate, cele introduse manual si adresele învățate cu ajutorul protocoalelor de rutare. Ruterele introduc o latenta fixa in rețea independent de încărcarea acesteia"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 16,
+      "index": 14
+    },
+    {
+      "question": "Arhitectura peer to peer",
+      "options": [
+        "Arhitectura nu are un server central. Fiecare echipament conectat partajează fișierele cu celelalte echipamente conectate la rețea. Securitatea trebuie sa fie similara pentru toate echipamentele conectate. Este ieftina de implementat deoarece nu necesita achiziționarea de servere",
+        "Arhitectura nu are un server central. Fiecare echipament conectat partajează fișierele cu celelalte echipamente conectate la rețea. Securitatea este asigurata individual pentru fiecare utilizator conectat. Este arhitectura recomandata in momentul in care o rețea devine foarte mare",
+        "Arhitectura are un server central la care se conectează utilizatorii însă schimburile de date se fac direct intre utilizatori, fără intervenția unui server. Securitatea este asigurata individual pentru fiecare utilizator conectat. Costurile implementării sunt mici deoarece nu necesita achiziționarea de servere",
+        "Arhitectura nu are un server central. Fiecare echipament conectat partajează fișierele cu celelalte echipamente conectate la rețea. Securitatea este asigurata individual pentru fiecare utilizator conectat. Este posibil de gestionat pentru un număr mic de calculatoare. Este ieftina de realizat deoarece nu necesita achiziționarea de servere"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 17,
+      "index": 15
+    },
+    {
+      "question": "Arhitectura server­client",
+      "options": [
+        "Arhitectura/modelul server­client este un model de distribuire a sarcinilor unei aplicații intre client (care accesează resursele serverului) si server (care pune la dispoziție resursele si serviciile). Clienții cat si serverele au rol similar putând atât partaja cat si solicita resurse. Exemple sunt www, email, imprimarea in rețea",
+        "Arhitectura/modelul server­client este un model de distribuire a sarcinilor unei aplicații intre client (care accesează resursele serverului) si server (care pune la dispoziție resursele si serviciile). Exemple de aplicare sunt www, email, imprimarea in rețea. De obicei exista un sistem de securizare centralizat al accesului clienților la resurse",
+        "Arhitectura/modelul server­client este un model de distribuire a sarcinilor unei aplicații intre client (care accesează resursele serverului) si server (care pune la dispoziție resursele si serviciile). Arhitectura nu se scalează foarte bine la creșterea numărului clienților, unde se recomanda arhitectura peer to peer. Dezavantajul implementării unei rețele bazate pe arhitectura server­client este costul atât al sistemelor server cat si al specialiștilor care administrează aceste echipamente",
+        "Arhitectura/modelul server­client are un server central la care se conectează utilizatorii însă schimburile de date se fac direct intre utilizatori, fără intervenția unui server. Arhitectura se scalează foarte bine la creșterea numărului clienților. Securitatea este asigurata individual pentru fiecare utilizator conectat"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 18,
+      "index": 16
+    },
+    {
+      "question": "Protocolul Ethernet.",
+      "options": [
+        "Ethernet este o utilizat in rețele locale, identifica cadrele prin adresa MAC pe 48 de biți, permite detecția erorilor prin utilizarea CRC pentru a elimina cadrele eronate si utilizează algoritmul CSMA/CD pentru detecția coliziunilor prin cablu torsadat si coaxial. Retransmiterea cadrelor eronate intra in responsabilitatea protocoalelor de nivel superior",
+        "Ethernet este o utilizat in rețele locale, identifica cadrele prin adresa MAC pe 48 de biți, permite detecția erorilor prin utilizarea CRC pentru a retransmite cadrele eronate si utilizează algoritmul CSMA/CD pentru detecția coliziunilor prin cablu torsadat si coaxial",
+        "Ethernet este o utilizat in rețele locale care împart datele in cadre identificate prin adresa IP pe 32 de biți, permite detecția erorilor prin utilizarea CRC pentru a elimina cadrele eronate si utilizează algoritmul CSMA/CD pentru detecția coliziunilor prin cablu torsadat si coaxial",
+        "Ethernet este o utilizat in rețele locale care împart datele in cadre identificate prin adresa MAC pe 48 de biți, permite detecția erorilor prin utilizarea CRC pentru a elimina cadrele eronate si utilizează algoritmul CSMA/CA pentru detecția coliziunilor prin rețele wireless"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 19,
+      "index": 17
+    },
+    {
+      "question": "Adresa fizica ­ Media Access Control (MAC)",
+      "options": [
+        "Are 24 de biți si este folosita pentru identificarea calculatoarelor in rețeaua locala Ethernet. Cei 24 de biți sunt organizați in doua grupuri, 12 de biți si doua parți, 12 biți pentru identificarea producătorului si 12 biți pentru identificarea dispozitivului,. Exemplu de MAC: AC­B5­7G­C2­69­36",
+        "Are 48 de biți, reprezentați in format zecimal si este folosita pentru identificarea calculatoarelor in rețeaua locala Ethernet. Cei 48 de biți sunt organizați in doua grupuri egale: primii pentru identificarea producătorului si următorii pentru identificarea dispozitivului. Exemplu de MAC: AC­B5­7D­C2­69­36",
+        "Are 48 de biți si este folosita pentru identificarea calculatoarelor la nivelul internetului. Cei 48 de biți sunt organizați in doua grupuri, primii 24 biți pentru identificarea producătorului si ultimii 24 biți pentru identificarea dispozitivului",
+        "Are 48 de biți, reprezentați in format hexazecimal si este folosita pentru identificarea calculatoarelor in rețeaua locala Ethernet. Cei 48 de biți sunt organizați in doua grupuri, primii 24 biți pentru identificarea producătorului si ultimii 24 biți pentru identificarea dispozitivului"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 20,
+      "index": 18
+    },
+    {
+      "question": "Antetul protocolului IP v4",
+      "options": [
+        "Conține câmpurile: versiune, lungime totala, deplasament de fragmentare, TTL, protocol, IP sursa, IP destinație",
+        "Conține câmpurile: versiune, lungime totala, deplasament de fragmentare, TTL, protocol, MAC sursa, MAC destinație",
+        "Conține câmpurile: versiune, lungime totala, deplasament de fragmentare, TTL, clasa de trafic, IP sursa, IP destinație",
+        "Conține câmpurile: versiune, lungime totala, deplasament de fragmentare, TTL, identificator de flux, IP sursa, IP destinație"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 21,
+      "index": 19
+    },
+    {
+      "question": "Rolul câmpului Time to Live (TTL) in IP v4",
+      "options": [
+        "Este un număr pe 8 biți a cărui valoare este incrementata de rutere când un pachet le traversează. In cazul in care TTL ajunge din nou la valoarea 0 pachetul este eliminat",
+        "Este un număr pe 8 biți. Este inițializat la pornirea in pachetului in rețea cu o valoare care este decrementata de rutere când un pachet le traversează. In cazul in care TTL ajunge la valoarea 0 pachetul este eliminat",
+        "Este o componenta a antetului protocolului IP care se regăsește si in antetul IPv6 sub același nume, care permite evitarea buclelor infinite de rutare",
+        "Este o componenta a antetului protocolului IP pe 16 biți care este decrementata de rutere când un pachet le traversează. In cazul in care TTL ajunge la valoarea 0 pachetul este eliminat"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 22,
+      "index": 20
+    },
+    {
+      "question": "Adresarea în reţele de calculatoare. Adresa de rețea IP v4.",
+      "options": [
+        "Adresa de rețea este ultima adresa din rețea si este folosita in tabela de rutare pentru a identifica grupul de calculatoare",
+        "Fiind data adresa IP 192.168.0.99 si masca 255.255.255.248 adresa de rețea este: 192.168.0.96",
+        "Fiind data adresa IP 192.168.0.99 si masca 255.255.255.248 adresa de rețea este: 192.168.0.98",
+        "Fiind data adresa IP 192.168.0.235 si masca 255.255.255.248 adresa de rețea este: 192.168.0.231"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 23,
+      "index": 21
+    },
+    {
+      "question": "Adresarea în reţele de calculatoare. Adresa A. de broadcast IP v4.",
+      "options": [
+        "Adresa de broadcast este prima adresa din rețea si este folosita pentru a trimite mesaje tuturor calculatoarelor din acea rețea",
+        "Fiind data adresa IP 192.168.0.205 si masca 255.255.255.248 adresa de broadcast este: 192.168.0.206",
+        "Fiind data adresa IP 192.168.0.205 si masca 255.255.255.248 adresa de broadcast este: 192.168.0.207",
+        "Fiind data adresa IP 192.168.0.219 si masca 255.255.255.248 adresa de broadcast este: 192.168.0.205"
+      ],
+      "correctAnswer": 2,
+      "questionNumber": 24,
+      "index": 22
+    },
+    {
+      "question": "Masca de rețea",
+      "options": [
+        "Este o valoare pe 32 de biți utilizata in IP versiunea 4 pentru de a identifica partea de rețea a adresei IP. Funcția realizata in acest sens este Adresa de rețea = IP Masca de rețea. Următoarea este o masca valida pentru clasa B: 255.255.255.0",
+        "Este o valoare pe 32 de biți utilizata in IP versiunea 4 pentru de a identifica partea de rețea a adresei IP. Funcția realizata in acest sens este Adresa de rețea = IP Masca de rețea. Masca are numai biti de 0 in zona de rețea si numai biți de 1 in zona utilizator (host)",
+        "Este o valoare pe 32 de biți utilizata in IP versiunea 4 pentru de a identifica partea de rețea a adresei IP. Funcția realizata in acest sens este Adresa de rețea = IP Masca de rețea. Următoarea este o masca valida pentru clasa A: 255.0.0.0",
+        "Este o valoare pe 32 de biți utilizata in IP versiunea 4 pentru de a identifica partea de rețea a adresei IP. Funcția realizata in acest sens este Adresa de rețea = IP Masca de rețea. Masca are numai biți de 1 in zona de rețea si numai biți de 0 in zona utilizator (host). Următoarea este o masca valida pentru clasa B: 255.255.0.0"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 25,
+      "index": 23
+    },
+    {
+      "question": "Subretele de calculatoare. Calcul adresa de rețea pentru o subrețea IP v4. Fiind data masca de rețea, precizați care doua adrese fac parte din aceeași subrețea",
+      "options": [
+        "Fiind data adresele IP 192.168.0.97 si 192.168.0.102 si masca 255.255.255.248 ele sunt din aceeași rețea 192.168.0.95",
+        "Fiind data adresele IP 192.168.0.97 si 192.168.0.102 si masca 255.255.255.248 ele sunt din aceeași rețea 192.168.0.96",
+        "Fiind data adresele IP 192.168.0.97 si 192.168.0.102 si masca 255.255.255.248 ele sunt din aceeași rețea 192.168.0.94",
+        "Fiind data adresele IP 192.168.0.97 si 192.168.0.102 si masca 255.255.255.248 ele sunt din aceeași rețea 192.168.0.92"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 26,
+      "index": 24
+    },
+    {
+      "question": "Rolul unui gateway in rețele de calculatoare",
+      "options": [
+        "Este necesar sa fie precizat in cazul in care calculatorul dorește sa comunice cu alte rețele decât cea locala",
+        "Este obligatoriu sa fie precizat pentru funcționarea corecta a calculatorului conectat la o rețea de calculatoare",
+        "Este necesar sa fie precizat in cazul in care calculatorul dorește sa comunice in rețeaua locala",
+        "Este o valoare ce poate fi oferita doar de către server DHCP calculatoarelor din rețeaua locala pentru a putea sa comunice cu acestea"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 27,
+      "index": 25
+    },
+    {
+      "question": "Adresarea în reţele de calculatoare. Adrese private IP v4",
+      "options": [
+        "Sunt adrese private: 172.32.3.15; 192.168.0.1; 10.0.0.1",
+        "Sunt adrese private:192.168.10.1; 172.17.3.15; 11.10.0.1",
+        "Sunt adrese private:10.168.100.12; 192.178.3.15; 1.10.0.1",
+        "Sunt adrese private:192.168.100.12; 172.17.3.15; 10.11.0.1"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 28,
+      "index": 26
+    },
+    {
+      "question": "Internet Protocol v6",
+      "options": [
+        "IPv6 a fost introdus ca o evoluție a IP versiune 4 pentru a permite extinderea internetului. Adresa 3ffe:0000:0000:0003:0200:f8ff:fe21:067c se poate rescrie 3ffe::3:200:f8ff:fe21:67c",
+        "Oferă un spațiu de adrese de patru ori mai mare decât IP versiunea 4 (128 de biți pentru IPv6 respectiv 32 de biți pentru IPv4). Verificarea corectitudinii antetului IPv6 nu mai este realizata de acest protocol si este lăsata in sarcina protocoalelor de nivel superior sau al celor de nivel inferior (de exemplu prin CRC)",
+        "IP versiunea 6 permite configurarea mai multor adrese pentru aceeași interfața de rețea. Adresa ff02::1::2 este o adresa valida IPv6. Verificarea corectitudinii antetului IPv6 este obligatorie spre deosebire de IPv4 unde era opționala",
+        "Oferă un spațiu de adrese mai mare decât IP versiunea 4. Adresa ff02::1:2 este o adresa valida IPv6. Verificarea corectitudinii antetului IPv6 nu mai este realizata de acest protocol si este lăsata in sarcina protocoalelor de nivel superior sau al celor de nivel inferior (de exemplu prin CRC)"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 29,
+      "index": 27
+    },
+    {
+      "question": "Antetul protocolului IP v6",
+      "options": [
+        "Include câmpurile: adresa IP sursa, adresa IP destinație, versiune, limita de salturi (in care limita de salturi are semnificație similara cu câmpului TTL din atentul IPv4). Fragmentarea pachetelor IP versiunea 6 nu mai este permisa",
+        "Este mai mare decât antetul IPv4 si include câmpurile: adresa IP sursa, adresa IP destinație, clasa de trafic, eticheta de flux, TTL",
+        "Include câmpurile: adresa IP sursa, adresa IP destinație, clasa de trafic si eticheta de flux. Nu are un câmp pentru verificarea corectitudinii antetului",
+        "Antetul IP versiunea 6 are o lungime fixa spre deosebire de IP versiune 4. Include câmpurile: adresa IP sursa, adresa IP destinație, clasa de trafic si TTL. Nu are un câmp pentru verificarea corectitudinii antetului"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 30,
+      "index": 28
+    },
+    {
+      "question": "Adresarea în reţele de calculatoare. Adrese IPv6",
+      "options": [
+        "Adresele IP versiunea 6 au 128 de biți impartiti in 8 grupuri de 16 biti fiecare. Un exemplu este ::192:168:0:1 IP versiunea 6 permite mai multe adrese pentru aceeași interfața, de exemplu adresele link­local adresele globale pot fi utilizate doar pentru comunicarea in rețeaua locala in vreme ce sunt utilizate pentru comunicarea la nivelul internetului",
+        "Adresele IP versiunea 6 au 32 de biti impartiti in 4 grupuri de 8 biți fiecare. Un exemplu este ::192:168:0:1. IP versiunea 6 permite mai multe adrese pentru aceeași interfața. Adresele link­local pot fi utilizate doar pentru comunicarea in rețeaua locala in vreme ce adresele globale sunt utilizate pentru comunicarea la nivelul internetului",
+        "Adresele IP versiunea 6 au 128 de biți impartiti in 8 grupuri de 16 biți fiecare. Un exemplu este :192:168:0:1. IP versiunea 6 permite mai multe adrese pentru aceeași interfața. Adresele link­local pot fi utilizate doar pentru comunicarea in rețeaua locala in vreme ce adresele globale sunt utilizate pentru comunicarea la nivelul internetului",
+        "Adresele IP versiunea 6 au 128 de biți impartiti in 8 grupuri de 16 biți fiecare. Un exemplu este ::192:168::1. IP versiunea 6 permite mai multe adrese pentru aceeași interfața. Adresele link­local pot fi utilizate doar pentru comunicarea in rețeaua locala in vreme ce adresele globale sunt utilizate pentru comunicarea la nivelul internetului"
+      ],
+      "correctAnswer": 2,
+      "questionNumber": 31,
+      "index": 29
+    },
+    {
+      "question": "Reguli de abreviere adrese IP v6",
+      "options": [
+        "Adresa cafe:0001:0000:0003:0200:0000:fe21:067c se poate rescrie cafe::3:200::fe21:67c",
+        "Adresa acad:0000:0000:0003:0200:0000:fe21:0001 se poate rescrie acad::3:200:f8ff:fe21:1",
+        "Adresa 3ffe:ffff:ffff:0003:ffff:ffff:fe21:0000 se poate rescrie 3ffe:f:3:200:f:fe21:0",
+        "Adresa 3ffe:0000:0000:0003:0200:0000:fe21:067c se poate rescrie 3ffe::3:200:0:fe21:67c"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 32,
+      "index": 30
+    },
+    {
+      "question": "Protocoale specifice nivelului transport al modelului TCP/IP",
+      "options": [
+        "TCP utilizat in comunicații orientate pe conexiune, UDP utilizat pentru comunicații fara conexiune",
+        "UDP utilizat in comunicații orientate pe conexiune, TCP utilizat pentru comunicații fara conexiune",
+        "TCP si UDP care asigura livrarea ordonata a unui flux de octeți de la sursa la destinație",
+        "UDP care asigura livrarea sigura a fluxului de octeți intre sursa si destinație si TCP care asigura livrarea datagramelor cu latenta redusa in detrimentul fiabilității"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 33,
+      "index": 31
+    },
+    {
+      "question": "Porturi in rețelele de calculatoare",
+      "options": [
+        "Porturile sunt numere pe 16 biți utilizate împreuna cu adresa IP pentru a forma un socket care permite identificarea unei aplicații rulând pe un anumit calculator conectat la rețea. Porturile de la 0­1023 sunt folosite de aplicații uzuale",
+        "Porturile sunt numere pe 32 biți utilizate împreuna cu adresa IP pentru a forma un socket care permite identificarea unei aplicații rulând pe un anumit calculator conectat la rețea. Porturile de la 0­1023 sunt folosite de aplicații uzuale",
+        "Porturile sunt numere pe 16 biți utilizate împreuna cu adresa IP pentru a forma un socket care permite identificarea unei aplicații rulând pe un anumit calculator conectat la rețea. Porturile de la 0­1023 sunt folosite de aplicații uzuale",
+        "Porturile sunt numere pe 16 biți utilizate împreuna cu adresa IP pentru a forma un socket care permite identificarea unei aplicații rulând pe un anumit calculator conectat la rețea. Porturile de la 0­1023 sunt folosite de aplicații uzuale"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 34,
+      "index": 32
+    },
+    {
+      "question": "Caracteristicile protocolului UDP",
+      "options": [
+        "Este un protocol situat la nivelul transport al modelului TCP/IP care se bazează pe protocoalele de nivel superior daca se dorește transmiterea mesajelor in mod fiabil, si sta la baza comunicațiilor FTP si SSH",
+        "Este un protocol fără conexiune, situat la nivelul transport si sta la baza comunicațiilor multimedia, DHCP si TFTP",
+        "Este un protocol fără conexiune, situat la nivelul internet si sta la baza comunicațiilor multimedia, DHCP si TFTP",
+        "Nu retransmite mesajele pierdute, este situat la nivelul transport si sta la baza comunicațiilor multimedia, FTP si SSH"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 35,
+      "index": 33
+    },
+    {
+      "question": "Antetul protocolului UDP",
+      "options": [
+        "Conține câmpurile : port sursa, port destinație, lungime si suma de verificare",
+        "Conține câmpurile : IP sursa, IP destinație, lungime si suma de verificare",
+        "Contine câmpurile : port sursa, port destinație, lungime si CRC",
+        "Conține câmpurile : port sursa, port destinație, lungime si suma de verificare"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 36,
+      "index": 34
+    },
+    {
+      "question": "Protocoale specifice nivelului aplicație bazate A. pe protocolul UDP.",
+      "options": [
+        "FTP",
+        "TFTP",
+        "SMTP",
+        "HTTP"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 37,
+      "index": 35
+    },
+    {
+      "question": "Caracteristicile protocolului TCP",
+      "options": [
+        "Folosește un schimb de mesaje in 3 etape pentru stabilirea conexiunii care este obligatoriu sa se termine corect înainte de a se putea transfera datele utilizatorului",
+        "Nu are nevoie de stabilirea unei conexiuni in prealabil pentru a putea transmite datele, așa cum este necesar pentru protocolul UDP",
+        "Este protocolul de suport pentru protocoalele de nivel superior TFTP si DHCP",
+        "Solicita retransmiterea mesajelor pierdute, din acest motiv poate avea întârzieri in transmiterea acestora. Protocoalele de nivel superior asigura rearanjarea datele in ordinea in care acestea au fost transmise"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 38,
+      "index": 36
+    },
+    {
+      "question": "Antetul protocolului TCP",
+      "options": [
+        "Conține câmpurile : port sursa, port destinație, lungime, număr de secvența si suma de verificare",
+        "Conține câmpurile : IP sursa, IP destinație, număr de confirmare (acknowledgement), si suma de verificare",
+        "Conține câmpurile : port sursa, port destinație, lungime, dimensiunea ferestrei si CRC",
+        "Conține câmpurile : sursa, destinație, lungime, TTL si suma de verificare"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 39,
+      "index": 37
+    },
+    {
+      "question": "Protocoale specifice nivelului aplicație bazate A. pe protocolul TCP",
+      "options": [
+        "FTP",
+        "TFTP",
+        "DHCP",
+        "SNMP"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 40,
+      "index": 38
+    },
+    {
+      "question": "Etapele stabilirii conexiunii TCP",
+      "options": [
+        "Se trimite un mesaj marcat cu SYN, de la sursa A la destinația B, însoțit de un număr de secvența SEQ. In pasul următor se trimite răspunsul de la B la A marcat atât SYN cat si ACK. Numărul de confirmare (ACK) care însoțește acest mesaj este SEQ+1. In final se trimite de la A la B mesajul marcat ACK",
+        "Se trimite un mesaj marcat cu ACK, de la sursa A la destinația B, însoțit de un număr de secvența SEQ. In pasul următor se trimite răspunsul de la B la A marcat atat SYN cat si ACK. Numărul de confirmare (ACK) care însoțește acest mesaj este SEQ+1. In final se trimite de la A la B mesajul marcat ACK",
+        "Se trimite un mesaj marcat cu SYN, de la sursa A la destinația B, însoțit de un număr de secvența SEQ. In pasul următor se trimite răspunsul de la B la A marcat atât SYN cat si ACK. Numărul de confirmare (ACK) care însoțește acest mesaj este SEQ­1. In final se trimite de la A la B mesajul marcat ACK",
+        "Se trimite un mesaj marcat cu SYN, de la sursa A la destinația B, însoțit de un număr de secvența SEQ. In pasul următor se trimite răspunsul de la B la A marcat ACK. Numărul de confirmare (ACK) care însoțește acest mesaj este SEQ+1. In final se trimite de la A la B mesajul marcat ACK"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 41,
+      "index": 39
+    },
+    {
+      "question": "Protocolul Telnet",
+      "options": [
+        "Este un protocol de comunicație de nivel aplicație care permite comunicația textuală, unidirecțională și interactivă cu un sistem de calcul. Nu este securizat si folosește in mod implicit portul 23",
+        "Este un protocol de comunicație de nivel aplicație care permite comunicația textuală, bidirecțională și interactivă cu un sistem de calcul. Este securizat si folosește in mod implicit portul 22",
+        "Este un protocol de comunicație de nivel transport care permite comunicația textuală, bidirecțională și interactivă cu un sistem de calcul. Nu este securizat si folosește in mod implicit portul 23",
+        "Este un protocol de comunicație de nivel aplicație care permite comunicația textuală, bidirecțională și interactivă cu un sistem de calcul. Nu este securizat si folosește in mod implicit portul 23"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 42,
+      "index": 40
+    },
+    {
+      "question": "Protocolul SSH",
+      "options": [
+        "Este un protocol de comunicație ce permite ca datele să fie transferate folosind un canal securizat intre dispozitive de rețea. Este bazat pe TCP si folosește in mod implicit portul 22",
+        "Este un protocol de comunicație ce permite ca datele să fie transferate folosind un canal nesecurizat intre dispozitive de rețea. Este bazat pe TCP si folosește in mod implicit portul 22",
+        "Este un protocol de comunicație ce permite ca datele să fie transferate folosind un canal securizat intre dispozitive de rețea. Este bazat pe UDP si folosește in mod implicit portul 22",
+        "Este un protocol de comunicație ce permite ca datele să fie transferate folosind un canal securizat intre dispozitive de rețea. Este bazat pe TCP si folosește in mod implicit portul 23"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 43,
+      "index": 41
+    },
+    {
+      "question": "Protocolul DNS",
+      "options": [
+        "Se bazează in principal pe protocolul TCP si folosește portul 54, are o structura ierarhica iar baza de date cu numele si adresele IP este distribuita",
+        "Se bazează in principal pe protocolul UDP si folosește portul 53, are o structura ierarhica iar baza de date cu numele si adresele IP este distribuita",
+        "Se bazează in principal pe protocolul UDP si folosește portul 52, are o structura ierarhica iar baza de date cu numele si adresele IP este distribuita",
+        "Se bazează in principal pe protocolul UDP si folosește portul 53, are o structura ierarhica iar baza de date cu numele si adresele MAC este distribuita"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 44,
+      "index": 42
+    },
+    {
+      "question": "Protocolul FTP",
+      "options": [
+        "Este bazat pe TCP si folosește porturile 20 si 21",
+        "Este bazat pe UDP si folosește porturile 20 si 21",
+        "Este bazat pe TCP si folosește porturile 22 si 23",
+        "Este bazat pe UDP si folosește porturile 22 si 23"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 45,
+      "index": 43
+    },
+    {
+      "question": "Protocolul HTTP",
+      "options": [
+        "Bazat pe UDP, Folosește metoda GET pentru solicita o resursa de pe server si PUT pentru a pune date pe server. Portul utilizat implicit este 80.Versiunea securizata utilizează implicit portul 443. Returnează coduri 3xx pentru redirectări",
+        "Bazat pe TCP, folosește metoda GET pentru solicita o resursa de pe server si PUT pentru a pune date pe server. Portul utilizat implicit este 80.Versiunea securizata utilizează implicit portul 443. Returnează coduri 5xx pentru erorile de server",
+        "Bazat pe UDP, Folosește metoda GET pentru solicita o resursa de pe server si PUT pentru a pune date pe server. Portul utilizat implicit este 80.Versiunea securizata utilizează implicit portul 443. Returnează coduri 4xx pentru erori ale utilizatorilor",
+        "Bazat pe TCP, folosește metoda GET pentru solicita o resursa de pe server si PUT pentru a pune date pe server. Portul utilizat implicit este 80.Versiunea securizata HTTPS utilizează implicit portul 433. Returnează coduri 2xx pentru răspunsuri reușite"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 46,
+      "index": 44
+    },
+    {
+      "question": "Protocolul DHCP",
+      "options": [
+        "Este bazat pe UDP si folosește implicit porturile 67 si 68",
+        "Este bazat pe TCP si folosește implicit porturile 68 si 69",
+        "Este bazat pe TCP si folosește implicit porturile 67 si 68",
+        "Este bazat pe UDP si folosește implicit porturile 68 si 69"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 47,
+      "index": 45
+    },
+    {
+      "question": "Protocoale pentru transferul de email",
+      "options": [
+        "Sunt bazate pe UDP. Exemple SMTP (utilizat pentru transmiterea de email) folosește portul 25 si POP3 (utilizat pentru recepționarea de email) folosește portul 110",
+        "Sunt bazate pe TCP. Exemple SMTP (utilizat pentru recepționarea de email) folosește portul 25 si POP3 (utilizat pentru transmiterea de email) folosește portul 110",
+        "Sunt bazate pe TCP. Exemple SMTP (utilizat pentru transmiterea de email) folosește portul 110 si POP3 (utilizat pentru recepționarea de email) folosește portul 25",
+        "Sunt bazate pe TCP. Exemple SMTP (utilizat pentru transmiterea de email) folosește portul 25 si POP3 (utilizat pentru recepționarea de email) folosește portul 110"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 48,
+      "index": 46
+    },
+    {
+      "question": "Rutarea in rețele de calculatoare",
+      "options": [
+        "Reprezintă procesul, realizat de rutere, de selecție al celui mai bun traseu pentru pachete in drumul lor de la sursă la destinație. Sunt utilizate in acest sens tabelele de adrese MAC care conțin adresele de rețea adăugate in mod static de către administrator sau dinamic de către protocoalele de rutare",
+        "Reprezintă procesul realizat de rutere de selecție al celui mai bun traseu pentru pachete in drumul lor de la sursă la destinație si transmiterea acestora pe interfața corespunzătoare. Sunt utilizate in acest sens tabelele de rutare care conțin adresele de rețea adăugate in mod static de către administrator sau dinamic de către protocoalele de rutare",
+        "Reprezintă procesul realizat de rutere de selecție al celui mai bun traseu pentru pachete in drumul lor de la sursă la destinație. Sunt utilizate in acest sens tabelele de rutare care conțin adresele de broadcast adăugate in mod static de către administrator sau dinamic de către protocoalele de rutare",
+        "Reprezintă procesul, realizat de rutere, de selecție al celui mai bun traseu pentru pachete in drumul lor de la sursă la destinație. Sunt utilizate in acest sens tabelele de rutare care conțin adresele de rețea adăugate in mod dinamic de către administrator sau static de către protocoalele de rutare"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 49,
+      "index": 47
+    },
+    {
+      "question": "Algoritmul de rutare: RIP. Caracteristici.",
+      "options": [
+        "Este un algoritm vector distanta care asociază un cost pentru fiecare legătura intre nodurile rețelei. Informația de rutare se transmite la intervale regulate de timp din aproape in aproape, motiv pentru care timpul de convergentă (cunoașterea conexiunilor întregii rețelele) este mare. Este un algoritm simplu comparativ cu OSPF",
+        "Este un algoritm vector distanta care asociază un cost pentru toate legăturile dintre nodurile rețelei. Informația de rutare se transmite doar atunci când apar modificări in rețea, motiv pentru care timpul de convergentă (cunoașterea conexiunilor întregii rețelele) este mare. Este un algoritm simplu comparativ cu OSPF",
+        "Este un algoritm bazat pe transmiterea stării legăturilor. Informația de rutare se transmite doar atunci când ruterul este instalat in rețea, motiv pentru care timpul de convergentă (cunoașterea conexiunilor întregii rețelele) este mic. Este un algoritm simplu comparativ cu OSPF",
+        "Este un algoritm vector distanta care asociază un cost pentru fiecare legătura intre nodurile rețelei. Informația de rutare se transmite la intervale regulate de timp din aproape in aproape, motiv pentru care timpul de convergentă (cunoașterea conexiunilor întregii rețelele) este mare. Este un algoritm complex comparativ cu OSPF"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 50,
+      "index": 48
+    },
+    {
+      "question": "Algoritmul de rutare: OSPF. Caracteristici",
+      "options": [
+        "Este un algoritm vector distanta care construiește o harta a distantelor din rețea si calculează căile optime pentru trimiterea pachetelor in rețea folosind algoritmul lui Dijkstra. Costul legăturilor este complex si poate include inclusiv costuri asignate manual de administrator. OSFP detectează modificările in topologia rețelei si transmite imediat informația de rutare actualizata. Este un algoritm complex comparativ cu RIP",
+        "Este un algoritm bazat pe transmiterea stării legăturilor care construiește o harta a legăturilor disponibile in rețea si calculează căile optime pentru trimiterea pachetelor in rețea folosind algoritmul lui Dijkstra. Costul legăturilor este complex si poate include inclusiv costuri asignate manual de administrator. OSFP detectează modificările in topologia rețelei si transmite imediat informația de rutare actualizata. Este un algoritm simplu comparativ cu RIP",
+        "Este un algoritm vector distanta care construiește o harta a distantelor din rețea si calculează căile optime pentru trimiterea pachetelor in rețea folosind algoritmul lui Dijkstra. Costul legăturilor este complex si poate include inclusiv costuri asignate manual de administrator. Este un algoritm complex comparativ cu RIP",
+        "Este un algoritm bazat pe transmiterea stării legăturilor care construiește o harta a legăturilor disponibile in rețea si calculează căile optime pentru trimiterea pachetelor in rețea folosind algoritmul lui Dijkstra. Costul legăturilor este complex si poate include inclusiv costuri asignate manual de administrator. OSFP detectează modificările in topologia rețelei si transmite imediat informația de rutare actualizata. Este un algoritm complex comparativ cu RIP"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 51,
+      "index": 49
+    },
+    {
+      "question": "Criptarea cu chei simetrice in rețele de calculatoare",
+      "options": [
+        "Cheia folosita la criptare diferă de cheia folosita la decriptare la criptare. Exemple AES",
+        "Aceeași cheie este folosita atât la criptare cat si la decriptare. Exemple AES",
+        "Aceeași cheie este folosita atât la criptare cat si la decriptare. Exemple RSA",
+        "Cheile de criptare si de decriptare sunt simetrice in sensul ca biți sunt la 0 la n intr­ o cheie si de la n la 0 in cealaltă"
+      ],
+      "correctAnswer": 1,
+      "questionNumber": 53,
+      "index": 50
+    },
+    {
+      "question": "Algoritmul Leaky Bucket",
+      "options": [
+        "Permite controlul congestiei traficului in rețea prin folosirea unei cozi cu timp se servire constant pentru controlul vitezei de ieșire din zona tampon. Nu exista pierderi de pachete",
+        "Permite controlul congestiei traficului in rețea prin utilizarea jetoanelor pentru controlul vitezei de ieșire din zona tampon",
+        "Permite controlul congestiei traficului in rețea prin colectarea intr­un buffer numit bucket a pachetelor si transmitea acestora in momentul in care bufferul devine plin",
+        "Permite controlul congestiei traficului in rețea prin folosirea unei cozi cu timp se servire constant. In cazul in care zona tampon se umple, pachetele sunt aruncate"
+      ],
+      "correctAnswer": 3,
+      "questionNumber": 61,
+      "index": 51
+    },
+    {
+      "question": "Algoritmul Token Bucket",
+      "options": [
+        "Permite reglarea congestiei traficului in rețea prin utilizarea jetoanelor pentru controlul vitezei de ieșire din zona tampon",
+        "Permite reglarea congestiei traficului in rețea prin folosirea unei cozi cu timp se servire constant. In cazul in care zona tampon se umple, pachetele sunt aruncate",
+        "Permite controlul congestiei traficului in rețea prin colectarea intr­un buffer numit bucket a jetoanelor (token) si transmitea acestora in momentul in care bufferul devine plin",
+        "Permite reglarea congestiei traficului in rețea prin folosirea unei cozi (numita token) cu timp se servire constant. Nu exista pierderi de pachete"
+      ],
+      "correctAnswer": 0,
+      "questionNumber": 62,
+      "index": 52
+    }
+  ]
+}
